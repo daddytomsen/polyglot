@@ -1,0 +1,38 @@
+# Karten 601–637
+adj-sunny | Wetter | ☀️ |
+adj-ideal | | | raus=1
+adj-blank | | | raus=1
+adj-strict | Schule & Arbeit | 📏 | it=severo
+adj-elementary | | | raus=1
+adj-rainy | Wetter | 🌧️ | ja=雨の, ja_roman=ame no, zh=下雨的, zh_roman=xiàyǔ de
+adj-cloudy | Wetter | ☁️ | it=nuvoloso
+adj-snowy | Wetter | 🌨️ | de=verschneit, ja=雪の, ja_roman=yuki no, zh=下雪的, zh_roman=xiàxuě de
+adj-foggy | Wetter | 🌫️ | ja=霧の, ja_roman=kiri no, zh=有雾的, zh_roman=yǒu wù de
+adv-there | Unterwegs & Orte | 👉 | fr=là, ja=そこ, ja_roman=soko
+adv-here | Unterwegs & Orte | 📍 |
+adv-now | Zeit | ⏱️ |
+adv-well | | | raus=1
+adv-really | Sprechen & Denken | ❗ |
+adv-too | | | raus=1
+adv-very | Sonstiges | ‼️ |
+adv-never | Zeit | 🚫 | ja=決して, ja_roman=kesshite, zh=从不, zh_roman=cóngbù
+adv-only | Sonstiges | 1️⃣ | es=solo, ja=だけ, ja_roman=dake, zh=只, zh_roman=zhǐ
+adv-again | Zeit | 🔁 | es=otra vez, fr=encore une fois, it=di nuovo
+adv-maybe | Sprechen & Denken | 🤷 | es=quizás, zh=也许, zh_roman=yěxǔ
+adv-away | | | raus=1
+adv-always | Zeit | ♾️ |
+adv-today | Zeit | 📅 | zh_roman=jīntiān
+adv-together | Familie & Menschen | 🤝 | es=juntos
+adv-already | Zeit | ✅ | zh=已经, zh_roman=yǐjīng
+adv-also | Sonstiges | ➕ | ja=も, ja_roman=mo
+adv-tomorrow | Zeit | 🌅 | ja=明日, ja_roman=ashita
+adv-tonight | Zeit | 🌃 | fr=ce soir
+adv-soon | Zeit | ⏳ | ja=もうすぐ, ja_roman=mōsugu, zh=很快, zh_roman=hěn kuài
+adv-late | | | raus=1
+adv-outside | Unterwegs & Orte | 🌳 | de=draußen
+adv-fast | | | raus=1
+adv-early | Zeit | 🌄 |
+adv-yesterday | Zeit | ⏪ | ja=昨日, ja_roman=kinō
+adv-quickly | Unterwegs & Orte | 💨 | es=rápidamente, ja=速く, ja_roman=hayaku, zh=快, zh_roman=kuài
+adv-often | Zeit | 🔂 | de=oft, es=a menudo
+adv-usually | Zeit | 🔄 | de=meistens, es=normalmente, fr=d'habitude, it=di solito, ja=たいてい, ja_roman=taitei

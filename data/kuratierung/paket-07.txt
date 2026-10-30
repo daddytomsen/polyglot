@@ -1,0 +1,51 @@
+# Karten 301–350
+noun-size | Kleidung | 📐 | ja=サイズ, ja_roman=saizu
+noun-color | Farben & Formen | 🎨 |
+noun-photo | Freizeit & Sport | 📸 | de=das Foto, es=foto, fr=photo, it=foto, ja=写真, ja_roman=shashin, zh=照片, zh_roman=zhàopiàn
+noun-sight | | | raus=1
+noun-bridge | Unterwegs & Orte | 🌉 |
+noun-coach | Freizeit & Sport | 🏋️ |
+noun-example | Sprechen & Denken | 📌 |
+noun-science | Schule & Arbeit | 🔬 |
+noun-sunday | Zeit | 📅 | ja=日曜日, ja_roman=nichiyōbi
+noun-friday | Zeit | 📅 | ja=金曜日, ja_roman=kin'yōbi
+noun-saturday | Zeit | 📅 | ja=土曜日, ja_roman=doyōbi, zh=星期六, zh_roman=xīngqīliù
+noun-spring | Zeit | 🌸 |
+noun-winter | Zeit | ❄️ |
+noun-monday | Zeit | 📅 | ja=月曜日, ja_roman=getsuyōbi
+noun-march | Zeit | 📅 | de=der März, es=marzo, fr=mars, it=marzo, ja=三月, ja_roman=sangatsu, zh=三月, zh_roman=sānyuè
+noun-april | Zeit | 📅 | de=der April
+noun-thursday | Zeit | 📅 | ja=木曜日, ja_roman=mokuyōbi
+noun-june | Zeit | 📅 |
+noun-tuesday | Zeit | 📅 | ja=火曜日, ja_roman=kayōbi, zh=星期二, zh_roman=xīngqī'èr
+noun-wednesday | Zeit | 📅 | ja=水曜日, ja_roman=suiyōbi
+noun-august | Zeit | 📅 | de=der August, es=agosto, fr=août, it=agosto, ja=八月, ja_roman=hachigatsu, zh=八月, zh_roman=bāyuè
+noun-july | Zeit | 📅 | de=der Juli, zh=七月, zh_roman=qīyuè
+noun-september | Zeit | 📅 | de=der September
+noun-october | Zeit | 📅 | de=der Oktober
+noun-november | Zeit | 📅 |
+noun-december | Zeit | 📅 | de=der Dezember
+noun-january | Zeit | 📅 | de=der Januar
+noun-february | Zeit | 📅 | de=der Februar, ja=二月, ja_roman=nigatsu
+noun-autumn | Zeit | 🍂 |
+verb-know | Sprechen & Denken | 🧠 |
+verb-like | Gefühle & Eigenschaften | 👍 | es=gustar, it=piacere, ja=好き, ja_roman=suki
+verb-get | Tun (Verben) | 🤲 | de=bekommen, es=recibir, fr=recevoir, it=ricevere, ja=もらう, ja_roman=morau, zh=得到, zh_roman=dédào
+verb-go | Tun (Verben) | 🚶 | ja_roman=iku
+verb-come | Tun (Verben) | 👋 | ja_roman=kuru
+verb-want | Gefühle & Eigenschaften | 🙏 |
+verb-think | Sprechen & Denken | 🤔 | de=denken
+verb-see | Tun (Verben) | 👀 | zh=看见, zh_roman=kànjiàn
+verb-let | Tun (Verben) | ✅ | ja=させる, ja_roman=saseru
+verb-look | Tun (Verben) | 👁️ | de=schauen
+verb-take | Tun (Verben) | ✋ |
+verb-tell | Sprechen & Denken | 🗣️ | de=erzählen, es=contar, fr=raconter, it=raccontare, ja=話す, ja_roman=hanasu, zh=告诉, zh_roman=gàosu
+verb-say | Sprechen & Denken | 💬 |
+verb-make | Tun (Verben) | 🔨 |
+verb-love | Gefühle & Eigenschaften | ❤️ | es=amar
+verb-mean | Sprechen & Denken | ➡️ | zh=意思是, zh_roman=yìsi shì
+verb-give | Tun (Verben) | 🎁 | ja=あげる, ja_roman=ageru
+verb-thank | Sprechen & Denken | 🙏 |
+verb-help | Tun (Verben) | 🤝 | ja=手伝う, ja_roman=tetsudau
+verb-find | Tun (Verben) | 🔍 | ja=見つける, ja_roman=mitsukeru, zh=找到, zh_roman=zhǎodào
+verb-work | Schule & Arbeit | 💼 |

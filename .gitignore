@@ -1,0 +1,5 @@
+data/kaikki/
+data/freq/
+.DS_Store
+logs/
+.claude/

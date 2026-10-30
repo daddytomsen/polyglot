@@ -1,0 +1,51 @@
+# Karten 451–500
+verb-add | Tun (Verben) | ➕ | ja=加える, ja_roman=kuwaeru
+verb-paint | Freizeit & Sport | 🎨 | de=malen, zh=画, zh_roman=huà
+verb-repeat | Sprechen & Denken | 🔁 |
+verb-celebrate | Freizeit & Sport | 🎉 | fr=célébrer
+verb-swim | Freizeit & Sport | 🏊 |
+verb-arrive | Unterwegs & Orte | 🛬 | de=ankommen, zh=到达, zh_roman=dàodá
+verb-solve | Sprechen & Denken | 🧩 | es=resolver, fr=résoudre
+verb-borrow | Einkaufen & Geld | 🤲 | de=sich leihen
+verb-collect | Freizeit & Sport | 🗃️ | es=coleccionar, fr=collectionner, it=collezionare
+verb-describe | Sprechen & Denken | 📝 | ja=説明する, ja_roman=setsumei suru
+verb-exercise | Körper & Gesundheit | 🏃 | de=Sport machen, es=hacer ejercicio, fr=faire de l'exercice, it=fare esercizio, ja=運動する, ja_roman=undō suru, zh=锻炼, zh_roman=duànliàn
+verb-brush | Körper & Gesundheit | 🪥 | de=bürsten, ja=ブラシをかける, ja_roman=burashi o kakeru
+verb-greet | Sprechen & Denken | 👋 | fr=saluer, zh=打招呼, zh_roman=dǎ zhāohu
+adj-right | Unterwegs & Orte | ➡️ | de=rechts, es=derecho, fr=droit, it=destro
+adj-well | | | raus=1
+adj-good | Gefühle & Eigenschaften | 👍 |
+adj-only | | | raus=1
+adj-little | | | raus=1
+adj-sorry | | | raus=1
+adj-off | | | raus=1
+adj-sure | Gefühle & Eigenschaften | ✅ |
+adj-first | Sonstiges | 🥇 | de=erste, es=primero
+adj-still | | | raus=1
+adj-great | Gefühle & Eigenschaften | 🌟 | de=großartig, es=genial, fr=génial, it=fantastico, ja=素晴らしい, ja_roman=subarashii, zh=太棒了, zh_roman=tài bàng le
+adj-better | | | raus=1
+adj-new | Gefühle & Eigenschaften | ✨ | ja=新しい, ja_roman=atarashii, zh=新的, zh_roman=xīn de
+adj-long | Farben & Formen | 📏 |
+adj-old | Gefühle & Eigenschaften | 🕰️ |
+adj-big | Farben & Formen | 🐘 |
+adj-nice | Gefühle & Eigenschaften | 🙂 | de=nett, es=amable, ja=優しい, ja_roman=yasashii, zh=好, zh_roman=hǎo
+adj-fine | | | raus=1
+adj-left | Unterwegs & Orte | ⬅️ | de=links, es=izquierdo
+adj-wrong | Gefühle & Eigenschaften | ❌ |
+adj-bad | Gefühle & Eigenschaften | 👎 | zh=坏, zh_roman=huài
+adj-own | | | raus=1
+adj-same | Sonstiges | 🟰 | de=gleich, es=mismo
+adj-best | | | raus=1
+adj-real | | | raus=1
+adj-ready | Gefühle & Eigenschaften | 🟢 | ja=準備ができた, ja_roman=junbi ga dekita, zh=准备好了, zh_roman=zhǔnbèi hǎo le
+adj-happy | Gefühle & Eigenschaften | 😊 | de=glücklich, ja=幸せ, ja_roman=shiawase
+adj-pretty | Gefühle & Eigenschaften | 🌸 | de=hübsch, ja=きれい, ja_roman=kirei
+adj-hard | Farben & Formen | 🪨 |
+adj-open | Sonstiges | 🔓 | de=offen, ja=開いている, ja_roman=aite iru, zh=开着, zh_roman=kāizhe
+adj-true | | | raus=1
+adj-beautiful | Gefühle & Eigenschaften | 🌺 | fr=beau, it=bello, ja=美しい, ja_roman=utsukushii, zh=美丽, zh_roman=měilì
+adj-young | Familie & Menschen | 🧒 |
+adj-second | Sonstiges | 🥈 | fr=deuxième
+adj-late | Zeit | ⏰ | ja=遅い, ja_roman=osoi
+adj-easy | Gefühle & Eigenschaften | 🍰 |
+adj-different | Sonstiges | 🔀 | de=anders, it=diverso

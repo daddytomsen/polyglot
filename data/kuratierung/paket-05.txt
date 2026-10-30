@@ -1,0 +1,51 @@
+# Karten 201–250
+noun-wall | Zuhause | 🧱 | de=die Wand, it=muro
+noun-seat | Unterwegs & Orte | 💺 | de=der Sitzplatz
+noun-machine | Sonstiges | ⚙️ | ja=機械, ja_roman=kikai
+noun-art | Freizeit & Sport | 🎨 | ja=芸術, ja_roman=geijutsu
+noun-pleasure | | | raus=1
+noun-college | Schule & Arbeit | 🎓 | de=die Hochschule
+noun-cry | | | raus=1
+noun-boyfriend | Familie & Menschen | 👨‍❤️‍👩 | de=der Freund, fr=copain, ja=彼氏, ja_roman=kareshi
+noun-teacher | Schule & Arbeit | 👩‍🏫 | es=profesor, it=insegnante
+noun-cop | | | raus=1
+noun-store | Einkaufen & Geld | 🏬 | de=das Geschäft, es=tienda, fr=magasin, it=negozio, ja=店, ja_roman=mise, zh=商店, zh_roman=shāngdiàn
+noun-cat | Natur & Tiere | 🐈 |
+noun-shop | | | raus=1
+noun-field | Natur & Tiere | 🌾 | ja=畑, ja_roman=hatake, zh=田野, zh_roman=tiányě
+noun-island | Natur & Tiere | 🏝️ |
+noun-glass | Essen & Trinken | 🥛 | es=vaso, it=bicchiere, ja=グラス, ja_roman=gurasu, zh=玻璃杯, zh_roman=bōlibēi
+noun-difference | Sprechen & Denken | ↔️ | zh=区别, zh_roman=qūbié
+noun-plane | Unterwegs & Orte | ✈️ |
+noun-tree | Natur & Tiere | 🌳 |
+noun-gift | Sonstiges | 🎁 | fr=cadeau
+noun-truck | Unterwegs & Orte | 🚚 |
+noun-bear | Natur & Tiere | 🐻 |
+noun-board | | | raus=1
+noun-partner | Familie & Menschen | 🤝 | it=partner, ja=パートナー, ja_roman=pātonā
+noun-wind | Wetter | 🌬️ |
+noun-computer | Schule & Arbeit | 💻 | zh=电脑, zh_roman=diànnǎo
+noun-bus | Unterwegs & Orte | 🚌 | zh=公共汽车, zh_roman=gōnggòng qìchē
+noun-river | Natur & Tiere | 🏞️ |
+noun-aunt | Familie & Menschen | 👩 | zh=阿姨, zh_roman=āyí
+noun-kitchen | Zuhause | 🍳 | ja=台所, ja_roman=daidokoro
+noun-summer | Zeit | ☀️ |
+noun-moon | Natur & Tiere | 🌙 | zh=月亮, zh_roman=yuèliang
+noun-address | Zuhause | 📬 |
+noun-match | | | raus=1
+noun-type | | | raus=1
+noun-action | | | raus=1
+noun-price | Einkaufen & Geld | 🏷️ |
+noun-smoke | Sonstiges | 💨 |
+noun-smile | Gefühle & Eigenschaften | 😊 |
+noun-spot | | | raus=1
+noun-bell | Sonstiges | 🔔 | ja=鐘, ja_roman=kane
+noun-stage | | | raus=1
+noun-chicken | Natur & Tiere | 🐔 | zh=鸡, zh_roman=jī
+noun-arm | Körper & Gesundheit | 💪 | zh=胳膊, zh_roman=gēbo
+noun-kick | | | raus=1
+noun-prince | Sonstiges | 🤴 | de=der Prinz, zh=王子, zh_roman=wángzǐ
+noun-form | | | raus=1
+noun-hole | Sonstiges | 🕳️ | es=agujero
+noun-leg | Körper & Gesundheit | 🦵 |
+noun-breakfast | Essen & Trinken | 🥐 | ja=朝ご飯, ja_roman=asagohan

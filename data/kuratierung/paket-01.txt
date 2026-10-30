@@ -1,0 +1,51 @@
+# Karten 1–50 (Nomen nach Häufigkeit). Leerfeld = Automatik bleibt. raus=1 = aus dem Paket (Dublette, Füllwort, falsche Bedeutung ohne A1-Wert)
+noun-time | Zeit | ⏰ |
+noun-man | Familie & Menschen | 👨 | ja=男の人, ja_roman=otoko no hito
+noun-people | Familie & Menschen | 👥 | de=die Leute, es=gente, fr=gens, it=gente, ja=人々, ja_roman=hitobito, zh=人们, zh_roman=rénmen
+noun-love | Gefühle & Eigenschaften | ❤️ |
+noun-life | Sonstiges | 🌱 | ja=生活, ja_roman=seikatsu
+noun-day | Zeit | 📅 |
+noun-work | Schule & Arbeit | 💼 |
+noun-home | Zuhause | 🏡 | de=das Zuhause, ja=家, ja_roman=uchi
+noun-night | Zeit | 🌙 | ja=夜, ja_roman=yoru, zh=晚上, zh_roman=wǎnshang
+noun-money | Einkaufen & Geld | 💰 | ja=お金, ja_roman=okane
+noun-name | Sprechen & Denken | 🏷️ |
+noun-place | Unterwegs & Orte | 📍 | de=der Ort
+noun-father | Familie & Menschen | 👨‍👧 | ja=父, ja_roman=chichi
+noun-hello | | | raus=1
+noun-girl | Familie & Menschen | 👧 | zh=女孩, zh_roman=nǚhái
+noun-thanks | | | raus=1
+noun-house | Zuhause | 🏠 |
+noun-course | Schule & Arbeit | 🎓 |
+noun-dad | Familie & Menschen | 👨 | ja=お父さん, ja_roman=otōsan
+noun-may | Zeit | 📅 | de=der Mai, es=mayo, fr=mai, it=maggio, ja=五月, ja_roman=gogatsu, zh=五月, zh_roman=wǔyuè
+noun-mother | Familie & Menschen | 👩‍👧 | ja=母, ja_roman=haha
+noun-world | Natur & Tiere | 🌍 |
+noun-today | | | raus=1
+noun-care | | | raus=1
+noun-car | Unterwegs & Orte | 🚗 |
+noun-son | Familie & Menschen | 👦 | zh=儿子, zh_roman=érzi
+noun-try | | | raus=1
+noun-woman | Familie & Menschen | 👩 | ja=女の人, ja_roman=onna no hito
+noun-mind | | | raus=1
+noun-friend | Familie & Menschen | 🧑‍🤝‍🧑 |
+noun-mom | Familie & Menschen | 👩 | es=mamá, fr=maman, it=mamma, ja=お母さん, ja_roman=okāsan
+noun-morning | Zeit | 🌅 |
+noun-boy | Familie & Menschen | 👦 | de=der Junge, it=ragazzo, ja=男の子, ja_roman=otoko no ko
+noun-job | | | raus=1
+noun-saw | | | raus=1
+noun-family | Familie & Menschen | 👨‍👩‍👧 | zh=家庭, zh_roman=jiātíng
+noun-baby | Familie & Menschen | 👶 | zh_roman=bǎobao
+noun-room | Zuhause | 🛏️ | de=das Zimmer, ja=部屋, ja_roman=heya
+noun-move | | | raus=1
+noun-head | Körper & Gesundheit | 🙂 | ja=頭, ja_roman=atama
+noun-idea | Sprechen & Denken | 💡 |
+noun-hold | | | raus=1
+noun-door | Zuhause | 🚪 |
+noun-brother | Familie & Menschen | 👬 | ja=兄弟, ja_roman=kyōdai
+noun-start | | | raus=1
+noun-wife | Familie & Menschen | 👰 | es=esposa
+noun-tomorrow | | | raus=1
+noun-run | | | raus=1
+noun-school | Schule & Arbeit | 🏫 |
+noun-phone | Zuhause | 📱 | de=das Telefon, es=teléfono, fr=téléphone, it=telefono, ja=電話, ja_roman=denwa, zh=电话, zh_roman=diànhuà

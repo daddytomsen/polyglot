@@ -1,0 +1,3472 @@
+{
+ "_hinweis": "Kuratierte Hauptformen. Die Automatik (Häufigkeit der Wortform) irrt, wenn eine Form mehrdeutig ist (chico = Junge, 日 = Tag) die Regionalpräferenz in REGION regelt die Variantenwahl (coche statt carro/auto). Alles andere bleibt als akzeptierte Antwort erhalten.",
+ "noun-car": {
+  "emoji": "🚗",
+  "thema": "Unterwegs & Orte"
+ },
+ "noun-dog": {
+  "emoji": "🐕",
+  "thema": "Natur & Tiere"
+ },
+ "noun-cat": {
+  "emoji": "🐈",
+  "thema": "Natur & Tiere"
+ },
+ "noun-house": {
+  "ja": "家",
+  "ja_roman": "ie",
+  "emoji": "🏠",
+  "thema": "Zuhause"
+ },
+ "noun-water": {
+  "emoji": "💧",
+  "thema": "Essen & Trinken",
+  "zh_roman": "shuǐ"
+ },
+ "noun-bread": {
+  "emoji": "🍞"
+ },
+ "noun-apple": {
+  "emoji": "🍎"
+ },
+ "noun-book": {
+  "emoji": "📖",
+  "thema": "Schule & Arbeit"
+ },
+ "noun-tree": {
+  "emoji": "🌳",
+  "thema": "Natur & Tiere"
+ },
+ "noun-sun": {
+  "ja": "太陽",
+  "ja_roman": "taiyō",
+  "zh": "太阳",
+  "zh_roman": "tàiyáng",
+  "emoji": "☀️",
+  "thema": "Natur & Tiere"
+ },
+ "verb-eat": {
+  "de": "essen",
+  "emoji": "🍽️",
+  "thema": "Essen & Trinken"
+ },
+ "verb-drink": {
+  "de": "trinken",
+  "es": "beber",
+  "emoji": "🥤",
+  "thema": "Essen & Trinken"
+ },
+ "adj-big": {
+  "de": "groß",
+  "emoji": "🐘",
+  "thema": "Farben & Formen"
+ },
+ "adj-small": {
+  "de": "klein",
+  "es": "pequeño",
+  "ja": "小さい",
+  "ja_roman": "chiisai",
+  "emoji": "🐜",
+  "thema": "Farben & Formen"
+ },
+ "adj-red": {
+  "de": "rot",
+  "emoji": "🔴",
+  "thema": "Farben & Formen"
+ },
+ "noun-mom": {
+  "thema": "Familie & Menschen",
+  "emoji": "👩",
+  "alias": "mother",
+  "de": "die Mama",
+  "es": "mamá",
+  "fr": "maman",
+  "it": "mamma",
+  "ja": "お母さん",
+  "ja_roman": "okāsan"
+ },
+ "adj-favorite": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "⭐",
+  "alias": "favourite",
+  "de": "Lieblings-",
+  "ja": "お気に入りの",
+  "ja_roman": "okiniiri no",
+  "zh": "最喜欢的",
+  "zh_roman": "zuì xǐhuan de"
+ },
+ "noun-june": {
+  "thema": "Zeit",
+  "emoji": "📅",
+  "de": "der Juni",
+  "es": "junio",
+  "fr": "juin",
+  "it": "giugno",
+  "ja": "六月",
+  "ja_roman": "rokugatsu",
+  "zh": "六月",
+  "zh_roman": "liùyuè"
+ },
+ "noun-november": {
+  "thema": "Zeit",
+  "emoji": "📅",
+  "de": "der November",
+  "es": "noviembre",
+  "fr": "novembre",
+  "it": "novembre",
+  "ja": "十一月",
+  "ja_roman": "jūichigatsu",
+  "zh": "十一月",
+  "zh_roman": "shíyīyuè"
+ },
+ "noun-time": {
+  "thema": "Zeit",
+  "emoji": "⏰"
+ },
+ "noun-man": {
+  "thema": "Familie & Menschen",
+  "emoji": "👨",
+  "ja": "男の人",
+  "ja_roman": "otoko no hito"
+ },
+ "noun-people": {
+  "thema": "Familie & Menschen",
+  "emoji": "👥",
+  "de": "die Leute",
+  "es": "gente",
+  "fr": "gens",
+  "it": "gente",
+  "ja": "人々",
+  "ja_roman": "hitobito",
+  "zh": "人们",
+  "zh_roman": "rénmen"
+ },
+ "noun-love": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "❤️"
+ },
+ "noun-life": {
+  "thema": "Sonstiges",
+  "emoji": "🌱",
+  "ja": "生活",
+  "ja_roman": "seikatsu"
+ },
+ "noun-day": {
+  "thema": "Zeit",
+  "emoji": "📅"
+ },
+ "noun-work": {
+  "thema": "Schule & Arbeit",
+  "emoji": "💼"
+ },
+ "noun-home": {
+  "thema": "Zuhause",
+  "emoji": "🏡",
+  "de": "das Zuhause",
+  "ja": "家",
+  "ja_roman": "uchi",
+  "raus": "1"
+ },
+ "noun-night": {
+  "thema": "Zeit",
+  "emoji": "🌙",
+  "ja": "夜",
+  "ja_roman": "yoru",
+  "zh": "晚上",
+  "zh_roman": "wǎnshang"
+ },
+ "noun-money": {
+  "thema": "Einkaufen & Geld",
+  "emoji": "💰",
+  "ja": "お金",
+  "ja_roman": "okane"
+ },
+ "noun-name": {
+  "thema": "Sprechen & Denken",
+  "emoji": "🏷️"
+ },
+ "noun-place": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "📍",
+  "de": "der Ort"
+ },
+ "noun-father": {
+  "thema": "Familie & Menschen",
+  "emoji": "👨‍👧",
+  "ja": "父",
+  "ja_roman": "chichi"
+ },
+ "noun-hello": {
+  "raus": "1"
+ },
+ "noun-girl": {
+  "thema": "Familie & Menschen",
+  "emoji": "👧",
+  "zh": "女孩",
+  "zh_roman": "nǚhái"
+ },
+ "noun-thanks": {
+  "raus": "1"
+ },
+ "noun-course": {
+  "thema": "Schule & Arbeit",
+  "emoji": "🎓"
+ },
+ "noun-dad": {
+  "thema": "Familie & Menschen",
+  "emoji": "👨",
+  "ja": "お父さん",
+  "ja_roman": "otōsan"
+ },
+ "noun-may": {
+  "thema": "Zeit",
+  "emoji": "📅",
+  "de": "der Mai",
+  "es": "mayo",
+  "fr": "mai",
+  "it": "maggio",
+  "ja": "五月",
+  "ja_roman": "gogatsu",
+  "zh": "五月",
+  "zh_roman": "wǔyuè"
+ },
+ "noun-mother": {
+  "thema": "Familie & Menschen",
+  "emoji": "👩‍👧",
+  "ja": "母",
+  "ja_roman": "haha"
+ },
+ "noun-world": {
+  "thema": "Natur & Tiere",
+  "emoji": "🌍"
+ },
+ "noun-today": {
+  "raus": "1"
+ },
+ "noun-care": {
+  "raus": "1"
+ },
+ "noun-son": {
+  "thema": "Familie & Menschen",
+  "emoji": "👦",
+  "zh": "儿子",
+  "zh_roman": "érzi"
+ },
+ "noun-try": {
+  "raus": "1"
+ },
+ "noun-woman": {
+  "thema": "Familie & Menschen",
+  "emoji": "👩",
+  "ja": "女の人",
+  "ja_roman": "onna no hito"
+ },
+ "noun-mind": {
+  "raus": "1"
+ },
+ "noun-friend": {
+  "thema": "Familie & Menschen",
+  "emoji": "🧑‍🤝‍🧑"
+ },
+ "noun-morning": {
+  "thema": "Zeit",
+  "emoji": "🌅"
+ },
+ "noun-boy": {
+  "thema": "Familie & Menschen",
+  "emoji": "👦",
+  "de": "der Junge",
+  "it": "ragazzo",
+  "ja": "男の子",
+  "ja_roman": "otoko no ko"
+ },
+ "noun-job": {
+  "raus": "1"
+ },
+ "noun-saw": {
+  "raus": "1"
+ },
+ "noun-family": {
+  "thema": "Familie & Menschen",
+  "emoji": "👨‍👩‍👧",
+  "zh": "家庭",
+  "zh_roman": "jiātíng"
+ },
+ "noun-baby": {
+  "thema": "Familie & Menschen",
+  "emoji": "👶",
+  "zh_roman": "bǎobao"
+ },
+ "noun-room": {
+  "thema": "Zuhause",
+  "emoji": "🛏️",
+  "de": "das Zimmer",
+  "ja": "部屋",
+  "ja_roman": "heya"
+ },
+ "noun-move": {
+  "raus": "1"
+ },
+ "noun-head": {
+  "thema": "Körper & Gesundheit",
+  "emoji": "🙂",
+  "ja": "頭",
+  "ja_roman": "atama"
+ },
+ "noun-idea": {
+  "thema": "Sprechen & Denken",
+  "emoji": "💡"
+ },
+ "noun-hold": {
+  "raus": "1"
+ },
+ "noun-door": {
+  "thema": "Zuhause",
+  "emoji": "🚪"
+ },
+ "noun-brother": {
+  "thema": "Familie & Menschen",
+  "emoji": "👬",
+  "ja": "兄弟",
+  "ja_roman": "kyōdai"
+ },
+ "noun-start": {
+  "raus": "1"
+ },
+ "noun-wife": {
+  "thema": "Familie & Menschen",
+  "emoji": "👰",
+  "es": "esposa"
+ },
+ "noun-tomorrow": {
+  "raus": "1"
+ },
+ "noun-run": {
+  "raus": "1"
+ },
+ "noun-school": {
+  "thema": "Schule & Arbeit",
+  "emoji": "🏫"
+ },
+ "noun-phone": {
+  "thema": "Zuhause",
+  "emoji": "📱",
+  "de": "das Telefon",
+  "es": "teléfono",
+  "fr": "téléphone",
+  "it": "telefono",
+  "ja": "電話",
+  "ja_roman": "denwa",
+  "zh": "电话",
+  "zh_roman": "diànhuà"
+ },
+ "noun-play": {
+  "raus": "1"
+ },
+ "noun-problem": {
+  "thema": "Sprechen & Denken",
+  "emoji": "❗"
+ },
+ "noun-hope": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "🤞",
+  "ja": "希望",
+  "ja_roman": "kibō"
+ },
+ "noun-face": {
+  "thema": "Körper & Gesundheit",
+  "emoji": "😊",
+  "zh": "脸",
+  "zh_roman": "liǎn"
+ },
+ "noun-excuse": {
+  "raus": "1"
+ },
+ "noun-business": {
+  "raus": "1"
+ },
+ "noun-heart": {
+  "thema": "Körper & Gesundheit",
+  "emoji": "❤️",
+  "ja": "心臓",
+  "ja_roman": "shinzō",
+  "zh": "心脏",
+  "zh_roman": "xīnzàng"
+ },
+ "noun-worry": {
+  "raus": "1"
+ },
+ "noun-year": {
+  "thema": "Zeit",
+  "emoji": "📆",
+  "ja_roman": "toshi",
+  "zh_roman": "nián"
+ },
+ "noun-watch": {
+  "thema": "Sonstiges",
+  "emoji": "⌚"
+ },
+ "noun-music": {
+  "thema": "Freizeit & Sport",
+  "emoji": "🎵",
+  "de": "die Musik"
+ },
+ "noun-person": {
+  "thema": "Familie & Menschen",
+  "emoji": "🧑",
+  "zh_roman": "rén"
+ },
+ "noun-minute": {
+  "thema": "Zeit",
+  "emoji": "⏱️"
+ },
+ "noun-pay": {
+  "raus": "1"
+ },
+ "noun-kid": {
+  "raus": "1"
+ },
+ "noun-change": {
+  "raus": "1"
+ },
+ "noun-drink": {
+  "thema": "Essen & Trinken",
+  "emoji": "🥤",
+  "es": "bebida",
+  "fr": "boisson",
+  "it": "bevanda"
+ },
+ "noun-check": {
+  "raus": "1"
+ },
+ "noun-body": {
+  "thema": "Körper & Gesundheit",
+  "emoji": "🧍"
+ },
+ "noun-party": {
+  "thema": "Freizeit & Sport",
+  "emoji": "🎉",
+  "ja": "パーティー",
+  "ja_roman": "pātī"
+ },
+ "noun-fun": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "😄",
+  "de": "der Spaß",
+  "es": "diversión",
+  "zh": "乐趣",
+  "zh_roman": "lèqù"
+ },
+ "noun-word": {
+  "thema": "Sprechen & Denken",
+  "emoji": "🔤"
+ },
+ "noun-story": {
+  "thema": "Sprechen & Denken",
+  "emoji": "📖",
+  "de": "die Geschichte (Erzählung)"
+ },
+ "noun-number": {
+  "thema": "Sonstiges",
+  "emoji": "🔢"
+ },
+ "noun-daughter": {
+  "thema": "Familie & Menschen",
+  "emoji": "👧"
+ },
+ "noun-wish": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "🌠",
+  "it": "desiderio"
+ },
+ "noun-moment": {
+  "thema": "Zeit",
+  "emoji": "⏳",
+  "de": "der Moment"
+ },
+ "noun-fight": {
+  "raus": "1"
+ },
+ "noun-week": {
+  "thema": "Zeit",
+  "emoji": "🗓️",
+  "ja": "週",
+  "ja_roman": "shū"
+ },
+ "noun-husband": {
+  "thema": "Familie & Menschen",
+  "emoji": "🤵",
+  "zh": "丈夫",
+  "zh_roman": "zhàngfu"
+ },
+ "noun-fire": {
+  "thema": "Natur & Tiere",
+  "emoji": "🔥",
+  "zh_roman": "huǒ"
+ },
+ "noun-game": {
+  "thema": "Freizeit & Sport",
+  "emoji": "🎮",
+  "zh_roman": "yóuxì"
+ },
+ "noun-stand": {
+  "raus": "1"
+ },
+ "noun-sister": {
+  "thema": "Familie & Menschen",
+  "emoji": "👭",
+  "ja": "姉妹",
+  "ja_roman": "shimai",
+  "zh": "姐妹",
+  "zh_roman": "jiěmèi"
+ },
+ "noun-child": {
+  "thema": "Familie & Menschen",
+  "emoji": "🧒",
+  "es": "niño",
+  "it": "bambino"
+ },
+ "noun-lady": {
+  "raus": "1"
+ },
+ "noun-reason": {
+  "thema": "Sprechen & Denken",
+  "emoji": "❓",
+  "it": "ragione"
+ },
+ "noun-war": {
+  "thema": "Sonstiges",
+  "emoji": "⚔️",
+  "ja": "戦争",
+  "ja_roman": "sensō",
+  "zh": "战争",
+  "zh_roman": "zhànzhēng"
+ },
+ "noun-city": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "🏙️",
+  "ja": "都市",
+  "ja_roman": "toshi"
+ },
+ "noun-walk": {
+  "thema": "Freizeit & Sport",
+  "emoji": "🚶"
+ },
+ "noun-town": {
+  "raus": "1"
+ },
+ "noun-office": {
+  "thema": "Schule & Arbeit",
+  "emoji": "🏢"
+ },
+ "noun-question": {
+  "thema": "Sprechen & Denken",
+  "emoji": "❓",
+  "zh_roman": "wèntí"
+ },
+ "noun-half": {
+  "thema": "Sonstiges",
+  "emoji": "🌓"
+ },
+ "noun-bye": {
+  "raus": "1"
+ },
+ "noun-team": {
+  "thema": "Freizeit & Sport",
+  "emoji": "🏅"
+ },
+ "noun-answer": {
+  "thema": "Sprechen & Denken",
+  "emoji": "💬",
+  "zh_roman": "huídá"
+ },
+ "noun-line": {
+  "thema": "Farben & Formen",
+  "emoji": "📏"
+ },
+ "noun-news": {
+  "thema": "Sprechen & Denken",
+  "emoji": "📰",
+  "de": "die Nachrichten",
+  "it": "notizie",
+  "ja_roman": "nyūsu"
+ },
+ "noun-bed": {
+  "thema": "Zuhause",
+  "emoji": "🛏️",
+  "es": "cama"
+ },
+ "noun-hurry": {
+  "raus": "1"
+ },
+ "noun-food": {
+  "thema": "Essen & Trinken",
+  "emoji": "🍲",
+  "de": "das Essen",
+  "fr": "nourriture",
+  "ja": "食べ物",
+  "ja_roman": "tabemono"
+ },
+ "noun-light": {
+  "thema": "Zuhause",
+  "emoji": "💡"
+ },
+ "noun-order": {
+  "raus": "1"
+ },
+ "noun-black": {
+  "raus": "1"
+ },
+ "noun-feeling": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "💭",
+  "es": "sentimiento",
+  "fr": "sentiment",
+  "it": "sentimento",
+  "ja": "気持ち",
+  "ja_roman": "kimochi"
+ },
+ "noun-king": {
+  "thema": "Sonstiges",
+  "emoji": "👑",
+  "ja": "王様",
+  "ja_roman": "ōsama"
+ },
+ "noun-plan": {
+  "thema": "Sprechen & Denken",
+  "emoji": "🗺️"
+ },
+ "noun-dinner": {
+  "thema": "Essen & Trinken",
+  "emoji": "🍽️",
+  "ja": "夕食",
+  "ja_roman": "yūshoku",
+  "zh": "晚饭",
+  "zh_roman": "wǎnfàn"
+ },
+ "noun-white": {
+  "raus": "1"
+ },
+ "noun-hour": {
+  "thema": "Zeit",
+  "emoji": "🕐",
+  "ja": "一時間",
+  "ja_roman": "ichijikan"
+ },
+ "noun-uncle": {
+  "thema": "Familie & Menschen",
+  "emoji": "👨",
+  "ja": "おじ",
+  "ja_roman": "oji"
+ },
+ "noun-touch": {
+  "raus": "1"
+ },
+ "noun-drive": {
+  "raus": "1"
+ },
+ "noun-hair": {
+  "thema": "Körper & Gesundheit",
+  "emoji": "💇",
+  "fr": "cheveux",
+  "it": "capelli"
+ },
+ "noun-luck": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "🍀"
+ },
+ "noun-daddy": {
+  "raus": "1"
+ },
+ "noun-cold": {
+  "thema": "Körper & Gesundheit",
+  "emoji": "🤧",
+  "it": "raffreddore"
+ },
+ "noun-hospital": {
+  "thema": "Körper & Gesundheit",
+  "emoji": "🏥"
+ },
+ "noun-street": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "🛣️",
+  "ja": "通り",
+  "ja_roman": "tōri",
+  "zh": "街",
+  "zh_roman": "jiē"
+ },
+ "noun-dance": {
+  "thema": "Freizeit & Sport",
+  "emoji": "💃",
+  "zh": "舞蹈",
+  "zh_roman": "wǔdǎo"
+ },
+ "noun-meeting": {
+  "thema": "Schule & Arbeit",
+  "emoji": "👥",
+  "de": "die Besprechung"
+ },
+ "noun-catch": {
+  "raus": "1"
+ },
+ "noun-evening": {
+  "thema": "Zeit",
+  "emoji": "🌆",
+  "es": "tarde",
+  "ja": "夕方",
+  "ja_roman": "yūgata",
+  "zh": "傍晚",
+  "zh_roman": "bàngwǎn"
+ },
+ "noun-dream": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "💤"
+ },
+ "noun-sign": {
+  "raus": "1"
+ },
+ "noun-coffee": {
+  "thema": "Essen & Trinken",
+  "emoji": "☕"
+ },
+ "noun-date": {
+  "thema": "Zeit",
+  "emoji": "📆",
+  "zh": "日期",
+  "zh_roman": "rìqī"
+ },
+ "noun-song": {
+  "thema": "Freizeit & Sport",
+  "emoji": "🎶"
+ },
+ "noun-future": {
+  "thema": "Zeit",
+  "emoji": "🔮"
+ },
+ "noun-throw": {
+  "raus": "1"
+ },
+ "noun-picture": {
+  "thema": "Freizeit & Sport",
+  "emoji": "🖼️",
+  "zh": "图片",
+  "zh_roman": "túpiàn"
+ },
+ "noun-eye": {
+  "thema": "Körper & Gesundheit",
+  "emoji": "👁️"
+ },
+ "noun-class": {
+  "thema": "Schule & Arbeit",
+  "emoji": "🏫",
+  "de": "die Klasse",
+  "ja": "クラス",
+  "ja_roman": "kurasu",
+  "zh": "班",
+  "zh_roman": "bān"
+ },
+ "noun-officer": {
+  "raus": "1"
+ },
+ "noun-wake": {
+  "raus": "1"
+ },
+ "noun-kiss": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "💋"
+ },
+ "noun-building": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "🏢",
+  "ja": "建物",
+  "ja_roman": "tatemono"
+ },
+ "noun-finish": {
+  "raus": "1"
+ },
+ "noun-age": {
+  "thema": "Familie & Menschen",
+  "emoji": "🎂",
+  "de": "das Alter",
+  "es": "edad",
+  "ja": "年齢",
+  "ja_roman": "nenrei",
+  "zh": "年龄",
+  "zh_roman": "niánlíng"
+ },
+ "noun-ship": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "🚢"
+ },
+ "noun-movie": {
+  "thema": "Freizeit & Sport",
+  "emoji": "🎬"
+ },
+ "noun-ride": {
+  "raus": "1"
+ },
+ "noun-mouth": {
+  "thema": "Körper & Gesundheit",
+  "emoji": "👄",
+  "fr": "bouche"
+ },
+ "noun-birthday": {
+  "thema": "Zeit",
+  "emoji": "🎂",
+  "ja": "誕生日",
+  "ja_roman": "tanjōbi"
+ },
+ "noun-information": {
+  "thema": "Sprechen & Denken",
+  "emoji": "ℹ️"
+ },
+ "noun-month": {
+  "thema": "Zeit",
+  "emoji": "🗓️"
+ },
+ "noun-train": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "🚆",
+  "ja": "電車",
+  "ja_roman": "densha"
+ },
+ "noun-clothes": {
+  "thema": "Kleidung",
+  "emoji": "👕",
+  "de": "die Kleidung"
+ },
+ "noun-hotel": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "🏨",
+  "zh": "酒店",
+  "zh_roman": "jiǔdiàn"
+ },
+ "noun-bag": {
+  "thema": "Kleidung",
+  "emoji": "👜",
+  "de": "die Tasche",
+  "ja": "かばん",
+  "ja_roman": "kaban"
+ },
+ "noun-history": {
+  "thema": "Schule & Arbeit",
+  "emoji": "📜",
+  "de": "die Geschichte (Vergangenheit)"
+ },
+ "noun-blue": {
+  "raus": "1"
+ },
+ "noun-station": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "🚉",
+  "zh": "车站",
+  "zh_roman": "chēzhàn"
+ },
+ "noun-message": {
+  "thema": "Sprechen & Denken",
+  "emoji": "✉️",
+  "ja": "メッセージ",
+  "ja_roman": "messēji",
+  "zh": "消息",
+  "zh_roman": "xiāoxi"
+ },
+ "noun-table": {
+  "thema": "Zuhause",
+  "emoji": "🪑",
+  "ja": "テーブル",
+  "ja_roman": "tēburu"
+ },
+ "noun-floor": {
+  "thema": "Zuhause",
+  "emoji": "🧱",
+  "de": "der Fußboden"
+ },
+ "noun-letter": {
+  "thema": "Sprechen & Denken",
+  "emoji": "💌",
+  "de": "der Brief",
+  "es": "carta",
+  "fr": "lettre",
+  "it": "lettera",
+  "ja": "手紙",
+  "ja_roman": "tegami",
+  "zh": "信",
+  "zh_roman": "xìn"
+ },
+ "noun-club": {
+  "thema": "Freizeit & Sport",
+  "emoji": "🎳",
+  "ja": "クラブ",
+  "ja_roman": "kurabu"
+ },
+ "noun-test": {
+  "thema": "Schule & Arbeit",
+  "emoji": "📝",
+  "de": "der Test",
+  "es": "examen",
+  "fr": "examen",
+  "ja": "試験",
+  "ja_roman": "shiken"
+ },
+ "noun-box": {
+  "thema": "Zuhause",
+  "emoji": "📦",
+  "de": "die Schachtel"
+ },
+ "noun-group": {
+  "thema": "Familie & Menschen",
+  "emoji": "👥",
+  "ja": "グループ",
+  "ja_roman": "gurūpu",
+  "zh": "小组",
+  "zh_roman": "xiǎozǔ"
+ },
+ "noun-peace": {
+  "thema": "Sonstiges",
+  "emoji": "🕊️",
+  "de": "der Frieden"
+ },
+ "noun-present": {
+  "thema": "Sonstiges",
+  "emoji": "🎁",
+  "de": "das Geschenk",
+  "es": "regalo",
+  "fr": "cadeau",
+  "it": "regalo",
+  "ja": "プレゼント",
+  "ja_roman": "purezento",
+  "zh": "礼物",
+  "zh_roman": "lǐwù",
+  "raus": "1"
+ },
+ "noun-horse": {
+  "thema": "Natur & Tiere",
+  "emoji": "🐴",
+  "de": "das Pferd"
+ },
+ "noun-ground": {
+  "thema": "Natur & Tiere",
+  "emoji": "🟫",
+  "de": "der Boden",
+  "it": "terra",
+  "ja": "地面",
+  "ja_roman": "jimen",
+  "zh": "地面",
+  "zh_roman": "dìmiàn",
+  "es": "tierra"
+ },
+ "noun-lunch": {
+  "thema": "Essen & Trinken",
+  "emoji": "🥪",
+  "es": "almuerzo",
+  "ja": "昼食",
+  "ja_roman": "chūshoku",
+  "zh": "午饭",
+  "zh_roman": "wǔfàn"
+ },
+ "noun-radio": {
+  "thema": "Zuhause",
+  "emoji": "📻",
+  "zh": "收音机",
+  "zh_roman": "shōuyīnjī"
+ },
+ "noun-ball": {
+  "thema": "Freizeit & Sport",
+  "emoji": "⚽",
+  "es": "pelota",
+  "fr": "ballon",
+  "it": "palla"
+ },
+ "noun-surprise": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "🎊",
+  "zh": "惊喜",
+  "zh_roman": "jīngxǐ"
+ },
+ "noun-paper": {
+  "thema": "Schule & Arbeit",
+  "emoji": "📄"
+ },
+ "noun-key": {
+  "thema": "Zuhause",
+  "emoji": "🔑"
+ },
+ "noun-boat": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "⛵",
+  "it": "barca",
+  "raus": "1"
+ },
+ "noun-bar": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "🍸"
+ },
+ "noun-fish": {
+  "thema": "Natur & Tiere",
+  "emoji": "🐟",
+  "es": "pez",
+  "ja_roman": "sakana"
+ },
+ "noun-cover": {
+  "raus": "1"
+ },
+ "noun-star": {
+  "thema": "Natur & Tiere",
+  "emoji": "⭐"
+ },
+ "noun-sea": {
+  "thema": "Natur & Tiere",
+  "emoji": "🌊"
+ },
+ "noun-bank": {
+  "thema": "Einkaufen & Geld",
+  "emoji": "🏦"
+ },
+ "noun-trip": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "🧳",
+  "fr": "voyage",
+  "ja": "旅行",
+  "ja_roman": "ryokō"
+ },
+ "noun-list": {
+  "thema": "Schule & Arbeit",
+  "emoji": "📋",
+  "zh": "清单",
+  "zh_roman": "qīngdān"
+ },
+ "noun-afternoon": {
+  "thema": "Zeit",
+  "emoji": "🌤️"
+ },
+ "noun-brain": {
+  "thema": "Körper & Gesundheit",
+  "emoji": "🧠",
+  "zh": "大脑",
+  "zh_roman": "dànǎo"
+ },
+ "noun-tea": {
+  "thema": "Essen & Trinken",
+  "emoji": "🍵"
+ },
+ "noun-park": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "🌳"
+ },
+ "noun-dress": {
+  "thema": "Kleidung",
+  "emoji": "👗",
+  "es": "vestido",
+  "ja": "ワンピース",
+  "ja_roman": "wanpīsu",
+  "zh": "连衣裙",
+  "zh_roman": "liányīqún"
+ },
+ "noun-ice": {
+  "thema": "Natur & Tiere",
+  "emoji": "🧊"
+ },
+ "noun-church": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "⛪"
+ },
+ "noun-camera": {
+  "thema": "Freizeit & Sport",
+  "emoji": "📷",
+  "de": "die Kamera"
+ },
+ "noun-card": {
+  "thema": "Freizeit & Sport",
+  "emoji": "🃏",
+  "es": "tarjeta",
+  "it": "carta (da gioco)"
+ },
+ "noun-fly": {
+  "thema": "Natur & Tiere",
+  "emoji": "🪰"
+ },
+ "noun-girlfriend": {
+  "thema": "Familie & Menschen",
+  "emoji": "👩‍❤️‍👨",
+  "de": "die Freundin",
+  "fr": "copine",
+  "it": "ragazza"
+ },
+ "noun-smell": {
+  "thema": "Körper & Gesundheit",
+  "emoji": "👃",
+  "fr": "odeur",
+  "zh": "气味",
+  "zh_roman": "qìwèi"
+ },
+ "noun-mum": {
+  "raus": "1"
+ },
+ "noun-visit": {
+  "thema": "Freizeit & Sport",
+  "emoji": "🚪"
+ },
+ "noun-window": {
+  "thema": "Zuhause",
+  "emoji": "🪟"
+ },
+ "noun-wall": {
+  "thema": "Zuhause",
+  "emoji": "🧱",
+  "de": "die Wand",
+  "it": "muro"
+ },
+ "noun-seat": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "💺",
+  "de": "der Sitzplatz",
+  "fr": "siège",
+  "it": "sedile"
+ },
+ "noun-machine": {
+  "thema": "Sonstiges",
+  "emoji": "⚙️",
+  "ja": "機械",
+  "ja_roman": "kikai",
+  "it": "macchina (dispositivo)"
+ },
+ "noun-art": {
+  "thema": "Freizeit & Sport",
+  "emoji": "🎨",
+  "ja": "芸術",
+  "ja_roman": "geijutsu"
+ },
+ "noun-pleasure": {
+  "raus": "1"
+ },
+ "noun-college": {
+  "thema": "Schule & Arbeit",
+  "emoji": "🎓",
+  "de": "die Hochschule"
+ },
+ "noun-cry": {
+  "raus": "1"
+ },
+ "noun-boyfriend": {
+  "thema": "Familie & Menschen",
+  "emoji": "👨‍❤️‍👩",
+  "de": "der feste Freund",
+  "fr": "copain",
+  "ja": "彼氏",
+  "ja_roman": "kareshi"
+ },
+ "noun-teacher": {
+  "thema": "Schule & Arbeit",
+  "emoji": "👩‍🏫",
+  "es": "profesor",
+  "it": "insegnante"
+ },
+ "noun-cop": {
+  "raus": "1"
+ },
+ "noun-store": {
+  "thema": "Einkaufen & Geld",
+  "emoji": "🏬",
+  "de": "das Geschäft",
+  "es": "tienda",
+  "fr": "magasin",
+  "it": "negozio",
+  "ja": "店",
+  "ja_roman": "mise",
+  "zh": "商店",
+  "zh_roman": "shāngdiàn"
+ },
+ "noun-shop": {
+  "raus": "1"
+ },
+ "noun-field": {
+  "thema": "Natur & Tiere",
+  "emoji": "🌾",
+  "ja": "畑",
+  "ja_roman": "hatake",
+  "zh": "田野",
+  "zh_roman": "tiányě"
+ },
+ "noun-island": {
+  "thema": "Natur & Tiere",
+  "emoji": "🏝️"
+ },
+ "noun-glass": {
+  "thema": "Essen & Trinken",
+  "emoji": "🥛",
+  "es": "vaso",
+  "it": "bicchiere",
+  "ja": "グラス",
+  "ja_roman": "gurasu",
+  "zh": "玻璃杯",
+  "zh_roman": "bōlibēi"
+ },
+ "noun-difference": {
+  "thema": "Sprechen & Denken",
+  "emoji": "↔️",
+  "zh": "区别",
+  "zh_roman": "qūbié"
+ },
+ "noun-plane": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "✈️"
+ },
+ "noun-gift": {
+  "thema": "Sonstiges",
+  "emoji": "🎁",
+  "fr": "cadeau"
+ },
+ "noun-truck": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "🚚"
+ },
+ "noun-bear": {
+  "thema": "Natur & Tiere",
+  "emoji": "🐻"
+ },
+ "noun-board": {
+  "raus": "1"
+ },
+ "noun-partner": {
+  "thema": "Familie & Menschen",
+  "emoji": "🤝",
+  "it": "partner",
+  "ja": "パートナー",
+  "ja_roman": "pātonā"
+ },
+ "noun-wind": {
+  "thema": "Wetter",
+  "emoji": "🌬️"
+ },
+ "noun-computer": {
+  "thema": "Schule & Arbeit",
+  "emoji": "💻",
+  "zh": "电脑",
+  "zh_roman": "diànnǎo"
+ },
+ "noun-bus": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "🚌",
+  "zh": "公共汽车",
+  "zh_roman": "gōnggòng qìchē"
+ },
+ "noun-river": {
+  "thema": "Natur & Tiere",
+  "emoji": "🏞️"
+ },
+ "noun-aunt": {
+  "thema": "Familie & Menschen",
+  "emoji": "👩",
+  "zh": "阿姨",
+  "zh_roman": "āyí"
+ },
+ "noun-kitchen": {
+  "thema": "Zuhause",
+  "emoji": "🍳",
+  "ja": "台所",
+  "ja_roman": "daidokoro"
+ },
+ "noun-summer": {
+  "thema": "Zeit",
+  "emoji": "☀️"
+ },
+ "noun-moon": {
+  "thema": "Natur & Tiere",
+  "emoji": "🌙",
+  "zh": "月亮",
+  "zh_roman": "yuèliang"
+ },
+ "noun-address": {
+  "thema": "Zuhause",
+  "emoji": "📬"
+ },
+ "noun-match": {
+  "raus": "1"
+ },
+ "noun-type": {
+  "raus": "1"
+ },
+ "noun-action": {
+  "raus": "1"
+ },
+ "noun-price": {
+  "thema": "Einkaufen & Geld",
+  "emoji": "🏷️"
+ },
+ "noun-smoke": {
+  "thema": "Sonstiges",
+  "emoji": "💨"
+ },
+ "noun-smile": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "😊"
+ },
+ "noun-spot": {
+  "raus": "1"
+ },
+ "noun-bell": {
+  "thema": "Sonstiges",
+  "emoji": "🔔",
+  "ja": "鐘",
+  "ja_roman": "kane"
+ },
+ "noun-stage": {
+  "raus": "1"
+ },
+ "noun-chicken": {
+  "thema": "Natur & Tiere",
+  "emoji": "🐔",
+  "zh": "鸡",
+  "zh_roman": "jī"
+ },
+ "noun-arm": {
+  "thema": "Körper & Gesundheit",
+  "emoji": "💪",
+  "zh": "胳膊",
+  "zh_roman": "gēbo"
+ },
+ "noun-kick": {
+  "raus": "1"
+ },
+ "noun-prince": {
+  "thema": "Sonstiges",
+  "emoji": "🤴",
+  "de": "der Prinz",
+  "zh": "王子",
+  "zh_roman": "wángzǐ"
+ },
+ "noun-form": {
+  "raus": "1"
+ },
+ "noun-hole": {
+  "thema": "Sonstiges",
+  "emoji": "🕳️",
+  "es": "agujero"
+ },
+ "noun-leg": {
+  "thema": "Körper & Gesundheit",
+  "emoji": "🦵"
+ },
+ "noun-breakfast": {
+  "thema": "Essen & Trinken",
+  "emoji": "🥐",
+  "ja": "朝ご飯",
+  "ja_roman": "asagohan"
+ },
+ "noun-video": {
+  "thema": "Freizeit & Sport",
+  "emoji": "📹",
+  "ja": "ビデオ",
+  "ja_roman": "bideo"
+ },
+ "noun-sky": {
+  "thema": "Natur & Tiere",
+  "emoji": "🌌",
+  "zh": "天空",
+  "zh_roman": "tiānkōng"
+ },
+ "noun-reading": {
+  "raus": "1"
+ },
+ "noun-memory": {
+  "thema": "Sprechen & Denken",
+  "emoji": "🧠",
+  "de": "die Erinnerung",
+  "es": "recuerdo",
+  "fr": "souvenir",
+  "it": "ricordo",
+  "ja": "思い出",
+  "ja_roman": "omoide",
+  "zh": "回忆",
+  "zh_roman": "huíyì"
+ },
+ "noun-nose": {
+  "thema": "Körper & Gesundheit",
+  "emoji": "👃"
+ },
+ "noun-bathroom": {
+  "thema": "Zuhause",
+  "emoji": "🛁",
+  "de": "das Bad",
+  "ja": "お風呂",
+  "ja_roman": "ofuro"
+ },
+ "noun-band": {
+  "thema": "Freizeit & Sport",
+  "emoji": "🎸",
+  "es": "banda",
+  "fr": "groupe (musique)",
+  "it": "band"
+ },
+ "noun-pop": {
+  "raus": "1"
+ },
+ "noun-neck": {
+  "thema": "Körper & Gesundheit",
+  "emoji": "🧣"
+ },
+ "noun-bottle": {
+  "thema": "Essen & Trinken",
+  "emoji": "🍾",
+  "ja": "ボトル",
+  "ja_roman": "botoru"
+ },
+ "noun-mommy": {
+  "raus": "1"
+ },
+ "noun-animal": {
+  "thema": "Natur & Tiere",
+  "emoji": "🐾",
+  "fr": "animal"
+ },
+ "noun-camp": {
+  "raus": "1"
+ },
+ "noun-bird": {
+  "thema": "Natur & Tiere",
+  "emoji": "🐦"
+ },
+ "noun-driver": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "🧑‍✈️",
+  "ja": "運転手",
+  "ja_roman": "untenshu"
+ },
+ "noun-rain": {
+  "thema": "Wetter",
+  "emoji": "🌧️"
+ },
+ "noun-stone": {
+  "thema": "Natur & Tiere",
+  "emoji": "🪨"
+ },
+ "noun-weekend": {
+  "thema": "Zeit",
+  "emoji": "🎈"
+ },
+ "noun-pants": {
+  "thema": "Kleidung",
+  "emoji": "👖"
+ },
+ "noun-beach": {
+  "thema": "Natur & Tiere",
+  "emoji": "🏖️",
+  "ja": "ビーチ",
+  "ja_roman": "bīchi"
+ },
+ "noun-bottom": {
+  "raus": "1"
+ },
+ "noun-cook": {
+  "thema": "Schule & Arbeit",
+  "emoji": "👨‍🍳",
+  "fr": "cuisinier",
+  "ja": "料理人",
+  "ja_roman": "ryōrinin"
+ },
+ "noun-hall": {
+  "raus": "1"
+ },
+ "noun-knife": {
+  "thema": "Essen & Trinken",
+  "emoji": "🔪"
+ },
+ "noun-princess": {
+  "thema": "Sonstiges",
+  "emoji": "👸",
+  "ja": "お姫様",
+  "ja_roman": "ohimesama"
+ },
+ "noun-rose": {
+  "thema": "Natur & Tiere",
+  "emoji": "🌹"
+ },
+ "noun-hat": {
+  "thema": "Kleidung",
+  "emoji": "🎩",
+  "de": "der Hut"
+ },
+ "noun-corner": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "📐",
+  "ja": "角",
+  "ja_roman": "kado"
+ },
+ "noun-code": {
+  "raus": "1"
+ },
+ "noun-note": {
+  "thema": "Sprechen & Denken",
+  "emoji": "📝",
+  "de": "die Notiz",
+  "ja": "メモ",
+  "ja_roman": "memo",
+  "zh": "笔记",
+  "zh_roman": "bǐjì"
+ },
+ "noun-language": {
+  "thema": "Sprechen & Denken",
+  "emoji": "🗣️",
+  "es": "idioma",
+  "ja": "言語",
+  "ja_roman": "gengo",
+  "zh": "语言",
+  "zh_roman": "yǔyán"
+ },
+ "noun-grandma": {
+  "thema": "Familie & Menschen",
+  "emoji": "👵",
+  "de": "die Oma",
+  "ja": "おばあさん",
+  "ja_roman": "obāsan",
+  "zh": "奶奶",
+  "zh_roman": "nǎinai"
+ },
+ "noun-leader": {
+  "raus": "1"
+ },
+ "noun-restaurant": {
+  "thema": "Essen & Trinken",
+  "emoji": "🍴"
+ },
+ "noun-ghost": {
+  "thema": "Sonstiges",
+  "emoji": "👻",
+  "es": "fantasma",
+  "fr": "fantôme",
+  "it": "fantasma",
+  "ja": "幽霊",
+  "ja_roman": "yūrei"
+ },
+ "noun-cup": {
+  "thema": "Essen & Trinken",
+  "emoji": "☕",
+  "fr": "tasse",
+  "ja": "カップ",
+  "ja_roman": "kappu"
+ },
+ "noun-conversation": {
+  "thema": "Sprechen & Denken",
+  "emoji": "💬",
+  "it": "conversazione",
+  "ja": "会話",
+  "ja_roman": "kaiwa"
+ },
+ "noun-health": {
+  "thema": "Körper & Gesundheit",
+  "emoji": "💚",
+  "fr": "santé",
+  "ja": "健康",
+  "ja_roman": "kenkō",
+  "zh": "健康",
+  "zh_roman": "jiànkāng"
+ },
+ "noun-rule": {
+  "thema": "Schule & Arbeit",
+  "emoji": "📏"
+ },
+ "noun-cousin": {
+  "thema": "Familie & Menschen",
+  "emoji": "🧑",
+  "zh": "表亲",
+  "zh_roman": "biǎoqīn"
+ },
+ "noun-file": {
+  "raus": "1"
+ },
+ "noun-milk": {
+  "thema": "Essen & Trinken",
+  "emoji": "🥛",
+  "ja": "牛乳",
+  "ja_roman": "gyūnyū",
+  "zh": "牛奶",
+  "zh_roman": "niúnǎi"
+ },
+ "noun-practice": {
+  "thema": "Schule & Arbeit",
+  "emoji": "🔁"
+ },
+ "noun-pardon": {
+  "raus": "1"
+ },
+ "noun-vote": {
+  "raus": "1"
+ },
+ "noun-dancing": {
+  "raus": "1"
+ },
+ "noun-copy": {
+  "raus": "1"
+ },
+ "noun-cake": {
+  "thema": "Essen & Trinken",
+  "emoji": "🍰",
+  "it": "torta"
+ },
+ "noun-meat": {
+  "thema": "Essen & Trinken",
+  "emoji": "🥩",
+  "ja": "肉",
+  "ja_roman": "niku"
+ },
+ "noun-student": {
+  "thema": "Schule & Arbeit",
+  "emoji": "🧑‍🎓",
+  "fr": "étudiant"
+ },
+ "noun-size": {
+  "thema": "Kleidung",
+  "emoji": "📐",
+  "ja": "サイズ",
+  "ja_roman": "saizu"
+ },
+ "noun-color": {
+  "thema": "Farben & Formen",
+  "emoji": "🎨"
+ },
+ "noun-photo": {
+  "thema": "Freizeit & Sport",
+  "emoji": "📸",
+  "de": "das Foto",
+  "es": "foto",
+  "fr": "photo",
+  "it": "foto",
+  "ja": "写真",
+  "ja_roman": "shashin",
+  "zh": "照片",
+  "zh_roman": "zhàopiàn"
+ },
+ "noun-sight": {
+  "raus": "1"
+ },
+ "noun-bridge": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "🌉"
+ },
+ "noun-coach": {
+  "thema": "Freizeit & Sport",
+  "emoji": "🏋️"
+ },
+ "noun-example": {
+  "thema": "Sprechen & Denken",
+  "emoji": "📌"
+ },
+ "noun-science": {
+  "thema": "Schule & Arbeit",
+  "emoji": "🔬"
+ },
+ "noun-sunday": {
+  "thema": "Zeit",
+  "emoji": "📅",
+  "ja": "日曜日",
+  "ja_roman": "nichiyōbi"
+ },
+ "noun-friday": {
+  "thema": "Zeit",
+  "emoji": "📅",
+  "ja": "金曜日",
+  "ja_roman": "kin'yōbi"
+ },
+ "noun-saturday": {
+  "thema": "Zeit",
+  "emoji": "📅",
+  "ja": "土曜日",
+  "ja_roman": "doyōbi",
+  "zh": "星期六",
+  "zh_roman": "xīngqīliù"
+ },
+ "noun-spring": {
+  "thema": "Zeit",
+  "emoji": "🌸"
+ },
+ "noun-winter": {
+  "thema": "Zeit",
+  "emoji": "❄️"
+ },
+ "noun-monday": {
+  "thema": "Zeit",
+  "emoji": "📅",
+  "ja": "月曜日",
+  "ja_roman": "getsuyōbi"
+ },
+ "noun-march": {
+  "thema": "Zeit",
+  "emoji": "📅",
+  "de": "der März",
+  "es": "marzo",
+  "fr": "mars",
+  "it": "marzo",
+  "ja": "三月",
+  "ja_roman": "sangatsu",
+  "zh": "三月",
+  "zh_roman": "sānyuè"
+ },
+ "noun-april": {
+  "thema": "Zeit",
+  "emoji": "📅",
+  "de": "der April"
+ },
+ "noun-thursday": {
+  "thema": "Zeit",
+  "emoji": "📅",
+  "ja": "木曜日",
+  "ja_roman": "mokuyōbi"
+ },
+ "noun-tuesday": {
+  "thema": "Zeit",
+  "emoji": "📅",
+  "ja": "火曜日",
+  "ja_roman": "kayōbi",
+  "zh": "星期二",
+  "zh_roman": "xīngqī'èr"
+ },
+ "noun-wednesday": {
+  "thema": "Zeit",
+  "emoji": "📅",
+  "ja": "水曜日",
+  "ja_roman": "suiyōbi"
+ },
+ "noun-august": {
+  "thema": "Zeit",
+  "emoji": "📅",
+  "de": "der August",
+  "es": "agosto",
+  "fr": "août",
+  "it": "agosto",
+  "ja": "八月",
+  "ja_roman": "hachigatsu",
+  "zh": "八月",
+  "zh_roman": "bāyuè"
+ },
+ "noun-july": {
+  "thema": "Zeit",
+  "emoji": "📅",
+  "de": "der Juli",
+  "zh": "七月",
+  "zh_roman": "qīyuè"
+ },
+ "noun-september": {
+  "thema": "Zeit",
+  "emoji": "📅",
+  "de": "der September"
+ },
+ "noun-october": {
+  "thema": "Zeit",
+  "emoji": "📅",
+  "de": "der Oktober"
+ },
+ "noun-december": {
+  "thema": "Zeit",
+  "emoji": "📅",
+  "de": "der Dezember"
+ },
+ "noun-january": {
+  "thema": "Zeit",
+  "emoji": "📅",
+  "de": "der Januar"
+ },
+ "noun-february": {
+  "thema": "Zeit",
+  "emoji": "📅",
+  "de": "der Februar",
+  "ja": "二月",
+  "ja_roman": "nigatsu"
+ },
+ "noun-autumn": {
+  "thema": "Zeit",
+  "emoji": "🍂"
+ },
+ "verb-know": {
+  "thema": "Sprechen & Denken",
+  "emoji": "🧠"
+ },
+ "verb-like": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "👍",
+  "es": "gustar",
+  "it": "piacere",
+  "ja": "好き",
+  "ja_roman": "suki"
+ },
+ "verb-get": {
+  "thema": "Tun (Verben)",
+  "emoji": "🤲",
+  "de": "bekommen",
+  "es": "recibir",
+  "fr": "recevoir",
+  "it": "ricevere",
+  "ja": "もらう",
+  "ja_roman": "morau",
+  "zh": "得到",
+  "zh_roman": "dédào"
+ },
+ "verb-go": {
+  "thema": "Tun (Verben)",
+  "emoji": "🚶",
+  "ja_roman": "iku"
+ },
+ "verb-come": {
+  "thema": "Tun (Verben)",
+  "emoji": "👋",
+  "ja_roman": "kuru"
+ },
+ "verb-want": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "🙏"
+ },
+ "verb-think": {
+  "thema": "Sprechen & Denken",
+  "emoji": "🤔",
+  "de": "denken"
+ },
+ "verb-see": {
+  "thema": "Tun (Verben)",
+  "emoji": "👀",
+  "zh": "看见",
+  "zh_roman": "kànjiàn"
+ },
+ "verb-let": {
+  "thema": "Tun (Verben)",
+  "emoji": "✅",
+  "ja": "させる",
+  "ja_roman": "saseru"
+ },
+ "verb-look": {
+  "thema": "Tun (Verben)",
+  "emoji": "👁️",
+  "de": "schauen"
+ },
+ "verb-take": {
+  "thema": "Tun (Verben)",
+  "emoji": "✋"
+ },
+ "verb-tell": {
+  "thema": "Sprechen & Denken",
+  "emoji": "🗣️",
+  "de": "erzählen",
+  "es": "contar",
+  "fr": "raconter",
+  "it": "raccontare",
+  "ja": "話す",
+  "ja_roman": "hanasu",
+  "zh": "告诉",
+  "zh_roman": "gàosu"
+ },
+ "verb-say": {
+  "thema": "Sprechen & Denken",
+  "emoji": "💬"
+ },
+ "verb-make": {
+  "thema": "Tun (Verben)",
+  "emoji": "🔨"
+ },
+ "verb-love": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "❤️",
+  "es": "amar"
+ },
+ "verb-mean": {
+  "thema": "Sprechen & Denken",
+  "emoji": "➡️",
+  "zh": "意思是",
+  "zh_roman": "yìsi shì"
+ },
+ "verb-give": {
+  "thema": "Tun (Verben)",
+  "emoji": "🎁",
+  "ja": "あげる",
+  "ja_roman": "ageru"
+ },
+ "verb-thank": {
+  "thema": "Sprechen & Denken",
+  "emoji": "🙏"
+ },
+ "verb-help": {
+  "thema": "Tun (Verben)",
+  "emoji": "🤝",
+  "ja": "手伝う",
+  "ja_roman": "tetsudau"
+ },
+ "verb-find": {
+  "thema": "Tun (Verben)",
+  "emoji": "🔍",
+  "ja": "見つける",
+  "ja_roman": "mitsukeru",
+  "zh": "找到",
+  "zh_roman": "zhǎodào"
+ },
+ "verb-work": {
+  "thema": "Schule & Arbeit",
+  "emoji": "💼"
+ },
+ "verb-wait": {
+  "thema": "Tun (Verben)",
+  "emoji": "⏳"
+ },
+ "verb-stop": {
+  "thema": "Tun (Verben)",
+  "emoji": "🛑",
+  "zh": "停",
+  "zh_roman": "tíng"
+ },
+ "verb-talk": {
+  "thema": "Sprechen & Denken",
+  "emoji": "🗨️",
+  "zh": "谈话",
+  "zh_roman": "tánhuà"
+ },
+ "verb-put": {
+  "thema": "Tun (Verben)",
+  "emoji": "📥",
+  "de": "legen"
+ },
+ "verb-keep": {
+  "thema": "Tun (Verben)",
+  "emoji": "🗄️",
+  "es": "guardar",
+  "ja": "取っておく",
+  "ja_roman": "totte oku",
+  "zh": "保留",
+  "zh_roman": "bǎoliú"
+ },
+ "verb-leave": {
+  "thema": "Tun (Verben)",
+  "emoji": "🚪",
+  "de": "verlassen",
+  "es": "irse",
+  "ja": "出る",
+  "ja_roman": "deru"
+ },
+ "verb-feel": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "💓",
+  "de": "fühlen",
+  "ja_roman": "kanjiru"
+ },
+ "verb-believe": {
+  "thema": "Sprechen & Denken",
+  "emoji": "🙌"
+ },
+ "verb-stay": {
+  "thema": "Tun (Verben)",
+  "emoji": "🏠",
+  "de": "bleiben",
+  "es": "quedarse",
+  "it": "restare",
+  "ja": "泊まる",
+  "ja_roman": "tomaru",
+  "zh": "待",
+  "zh_roman": "dāi"
+ },
+ "verb-listen": {
+  "thema": "Tun (Verben)",
+  "emoji": "🎧",
+  "de": "zuhören"
+ },
+ "verb-hear": {
+  "thema": "Tun (Verben)",
+  "emoji": "👂",
+  "ja": "聞こえる",
+  "ja_roman": "kikoeru",
+  "zh_roman": "tīng"
+ },
+ "verb-remember": {
+  "thema": "Sprechen & Denken",
+  "emoji": "💭",
+  "ja": "覚える",
+  "ja_roman": "oboeru"
+ },
+ "verb-ask": {
+  "thema": "Sprechen & Denken",
+  "emoji": "❓",
+  "ja": "尋ねる",
+  "ja_roman": "tazuneru"
+ },
+ "verb-show": {
+  "thema": "Tun (Verben)",
+  "emoji": "👉",
+  "zh": "给…看",
+  "zh_roman": "gěi … kàn"
+ },
+ "verb-kill": {
+  "raus": "1"
+ },
+ "verb-live": {
+  "thema": "Tun (Verben)",
+  "emoji": "🌱",
+  "es": "vivir",
+  "ja": "住む",
+  "ja_roman": "sumu",
+  "zh": "住",
+  "zh_roman": "zhù"
+ },
+ "verb-miss": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "😢",
+  "de": "vermissen",
+  "es": "extrañar",
+  "ja": "恋しい",
+  "ja_roman": "koishii",
+  "zh": "想念",
+  "zh_roman": "xiǎngniàn"
+ },
+ "verb-start": {
+  "thema": "Tun (Verben)",
+  "emoji": "▶️",
+  "de": "anfangen",
+  "es": "empezar",
+  "fr": "commencer",
+  "it": "cominciare",
+  "ja": "始める",
+  "ja_roman": "hajimeru",
+  "zh": "开始",
+  "zh_roman": "kāishǐ"
+ },
+ "verb-use": {
+  "thema": "Tun (Verben)",
+  "emoji": "🔧",
+  "ja": "使う",
+  "ja_roman": "tsukau"
+ },
+ "verb-guess": {
+  "thema": "Sprechen & Denken",
+  "emoji": "🎲",
+  "de": "raten",
+  "es": "adivinar",
+  "ja": "当てる",
+  "ja_roman": "ateru"
+ },
+ "verb-meet": {
+  "thema": "Familie & Menschen",
+  "emoji": "🤝",
+  "es": "conocer"
+ },
+ "verb-bring": {
+  "thema": "Tun (Verben)",
+  "emoji": "📦",
+  "fr": "apporter",
+  "ja": "持ってくる",
+  "ja_roman": "motte kuru"
+ },
+ "verb-run": {
+  "thema": "Freizeit & Sport",
+  "emoji": "🏃",
+  "de": "laufen"
+ },
+ "verb-phone": {
+  "thema": "Sprechen & Denken",
+  "emoji": "📞",
+  "es": "llamar",
+  "zh": "打电话",
+  "zh_roman": "dǎ diànhuà"
+ },
+ "verb-play": {
+  "thema": "Freizeit & Sport",
+  "emoji": "🎲"
+ },
+ "verb-open": {
+  "thema": "Tun (Verben)",
+  "emoji": "🔓"
+ },
+ "verb-turn": {
+  "thema": "Tun (Verben)",
+  "emoji": "🔄",
+  "de": "abbiegen",
+  "es": "girar",
+  "fr": "tourner",
+  "it": "girare",
+  "ja": "曲がる",
+  "ja_roman": "magaru",
+  "zh": "转弯",
+  "zh_roman": "zhuǎnwān"
+ },
+ "verb-watch": {
+  "thema": "Freizeit & Sport",
+  "emoji": "📺",
+  "de": "zuschauen",
+  "es": "ver",
+  "ja": "観る",
+  "ja_roman": "miru",
+  "zh": "观看",
+  "zh_roman": "guānkàn"
+ },
+ "verb-sit": {
+  "thema": "Tun (Verben)",
+  "emoji": "🪑",
+  "fr": "s'asseoir",
+  "it": "sedersi"
+ },
+ "verb-pay": {
+  "thema": "Einkaufen & Geld",
+  "emoji": "💳",
+  "zh": "付钱",
+  "zh_roman": "fùqián"
+ },
+ "verb-forget": {
+  "thema": "Sprechen & Denken",
+  "emoji": "🤷",
+  "de": "vergessen",
+  "zh": "忘记",
+  "zh_roman": "wàngjì"
+ },
+ "verb-change": {
+  "thema": "Tun (Verben)",
+  "emoji": "🔁",
+  "de": "ändern",
+  "zh": "改变",
+  "zh_roman": "gǎibiàn"
+ },
+ "verb-happen": {
+  "thema": "Sonstiges",
+  "emoji": "⚡",
+  "de": "passieren",
+  "es": "pasar"
+ },
+ "verb-sleep": {
+  "thema": "Körper & Gesundheit",
+  "emoji": "😴"
+ },
+ "verb-close": {
+  "thema": "Tun (Verben)",
+  "emoji": "🔒",
+  "ja": "閉める",
+  "ja_roman": "shimeru",
+  "zh": "关",
+  "zh_roman": "guān"
+ },
+ "verb-set": {
+  "raus": "1"
+ },
+ "verb-hurt": {
+  "thema": "Körper & Gesundheit",
+  "emoji": "🤕",
+  "it": "fare male"
+ },
+ "verb-read": {
+  "thema": "Schule & Arbeit",
+  "emoji": "📖",
+  "zh": "读",
+  "zh_roman": "dú"
+ },
+ "verb-cut": {
+  "thema": "Essen & Trinken",
+  "emoji": "✂️",
+  "de": "schneiden"
+ },
+ "verb-speak": {
+  "thema": "Sprechen & Denken",
+  "emoji": "🗣️"
+ },
+ "verb-break": {
+  "thema": "Tun (Verben)",
+  "emoji": "💥",
+  "de": "kaputt machen",
+  "ja": "壊す",
+  "ja_roman": "kowasu",
+  "zh": "弄坏",
+  "zh_roman": "nònghuài"
+ },
+ "verb-walk": {
+  "thema": "Freizeit & Sport",
+  "emoji": "🚶",
+  "de": "zu Fuß gehen"
+ },
+ "verb-welcome": {
+  "raus": "1"
+ },
+ "verb-buy": {
+  "thema": "Einkaufen & Geld",
+  "emoji": "🛒"
+ },
+ "verb-answer": {
+  "thema": "Sprechen & Denken",
+  "emoji": "💬"
+ },
+ "verb-save": {
+  "raus": "1"
+ },
+ "verb-become": {
+  "thema": "Tun (Verben)",
+  "emoji": "🦋",
+  "es": "volverse",
+  "ja": "なる",
+  "ja_roman": "naru"
+ },
+ "verb-pick": {
+  "raus": "1"
+ },
+ "verb-win": {
+  "thema": "Freizeit & Sport",
+  "emoji": "🏆"
+ },
+ "verb-dance": {
+  "thema": "Freizeit & Sport",
+  "emoji": "💃"
+ },
+ "verb-catch": {
+  "thema": "Freizeit & Sport",
+  "emoji": "🧤",
+  "es": "atrapar",
+  "fr": "attraper",
+  "it": "prendere",
+  "ja": "捕まえる",
+  "ja_roman": "tsukamaeru",
+  "zh": "接住",
+  "zh_roman": "jiēzhù"
+ },
+ "verb-write": {
+  "thema": "Schule & Arbeit",
+  "emoji": "✍️"
+ },
+ "verb-drop": {
+  "thema": "Tun (Verben)",
+  "emoji": "🫳",
+  "es": "dejar caer",
+  "it": "far cadere",
+  "zh": "掉",
+  "zh_roman": "diào"
+ },
+ "verb-learn": {
+  "thema": "Schule & Arbeit",
+  "emoji": "📚",
+  "it": "imparare",
+  "ja": "学ぶ",
+  "ja_roman": "manabu"
+ },
+ "verb-step": {
+  "raus": "1"
+ },
+ "verb-clean": {
+  "thema": "Zuhause",
+  "emoji": "🧹",
+  "de": "putzen"
+ },
+ "verb-finish": {
+  "thema": "Tun (Verben)",
+  "emoji": "🏁",
+  "es": "terminar",
+  "ja": "終える",
+  "ja_roman": "oeru",
+  "zh_roman": "jiéshù"
+ },
+ "verb-sell": {
+  "thema": "Einkaufen & Geld",
+  "emoji": "🏷️"
+ },
+ "verb-ride": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "🚴",
+  "de": "fahren (Rad/Pferd)",
+  "es": "montar",
+  "it": "andare in",
+  "zh": "骑",
+  "zh_roman": "qí"
+ },
+ "verb-imagine": {
+  "thema": "Sprechen & Denken",
+  "emoji": "💭",
+  "de": "sich vorstellen",
+  "it": "immaginare"
+ },
+ "verb-wear": {
+  "thema": "Kleidung",
+  "emoji": "👔",
+  "es": "llevar",
+  "it": "indossare",
+  "de": "tragen (Kleidung)"
+ },
+ "verb-sing": {
+  "thema": "Freizeit & Sport",
+  "emoji": "🎤"
+ },
+ "verb-spend": {
+  "thema": "Einkaufen & Geld",
+  "emoji": "💸",
+  "ja": "使う",
+  "ja_roman": "tsukau"
+ },
+ "verb-ring": {
+  "thema": "Sonstiges",
+  "emoji": "🔔",
+  "de": "klingeln"
+ },
+ "verb-join": {
+  "raus": "1"
+ },
+ "verb-enjoy": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "😊",
+  "fr": "profiter de",
+  "it": "godersi"
+ },
+ "verb-agree": {
+  "thema": "Sprechen & Denken",
+  "emoji": "🤝",
+  "es": "estar de acuerdo",
+  "fr": "être d'accord",
+  "it": "essere d'accordo"
+ },
+ "verb-hide": {
+  "thema": "Tun (Verben)",
+  "emoji": "🙈",
+  "de": "verstecken",
+  "es": "esconder"
+ },
+ "verb-blow": {
+  "raus": "1"
+ },
+ "verb-share": {
+  "thema": "Tun (Verben)",
+  "emoji": "🍰",
+  "es": "compartir",
+  "ja": "分ける",
+  "ja_roman": "wakeru"
+ },
+ "verb-fly": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "✈️"
+ },
+ "verb-laugh": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "😂"
+ },
+ "verb-visit": {
+  "thema": "Freizeit & Sport",
+  "emoji": "🚪",
+  "ja": "訪ねる",
+  "ja_roman": "tazuneru",
+  "zh": "拜访",
+  "zh_roman": "bàifǎng"
+ },
+ "verb-judge": {
+  "raus": "1"
+ },
+ "verb-carry": {
+  "thema": "Tun (Verben)",
+  "emoji": "🎒",
+  "ja": "運ぶ",
+  "ja_roman": "hakobu",
+  "de": "tragen (Last)"
+ },
+ "verb-teach": {
+  "thema": "Schule & Arbeit",
+  "emoji": "👩‍🏫",
+  "fr": "enseigner"
+ },
+ "verb-push": {
+  "thema": "Tun (Verben)",
+  "emoji": "👐"
+ },
+ "verb-jump": {
+  "thema": "Freizeit & Sport",
+  "emoji": "🤸"
+ },
+ "verb-grow": {
+  "thema": "Natur & Tiere",
+  "emoji": "🌱",
+  "ja": "育つ",
+  "ja_roman": "sodatsu",
+  "zh": "长大",
+  "zh_roman": "zhǎngdà"
+ },
+ "verb-choose": {
+  "thema": "Tun (Verben)",
+  "emoji": "☑️",
+  "es": "elegir"
+ },
+ "verb-begin": {
+  "thema": "Tun (Verben)",
+  "emoji": "▶️",
+  "ja": "始まる",
+  "ja_roman": "hajimaru",
+  "de": "beginnen"
+ },
+ "verb-kick": {
+  "thema": "Freizeit & Sport",
+  "emoji": "🦵",
+  "fr": "donner un coup de pied"
+ },
+ "verb-build": {
+  "thema": "Tun (Verben)",
+  "emoji": "🏗️",
+  "zh": "建",
+  "zh_roman": "jiàn"
+ },
+ "verb-study": {
+  "thema": "Schule & Arbeit",
+  "emoji": "📖",
+  "de": "lernen (Schule)",
+  "it": "studiare",
+  "ja": "勉強する",
+  "ja_roman": "benkyō suru"
+ },
+ "verb-rain": {
+  "thema": "Wetter",
+  "emoji": "🌧️"
+ },
+ "verb-cook": {
+  "thema": "Essen & Trinken",
+  "emoji": "🍳"
+ },
+ "verb-note": {
+  "raus": "1"
+ },
+ "verb-practice": {
+  "thema": "Schule & Arbeit",
+  "emoji": "🔁",
+  "de": "üben",
+  "es": "practicar",
+  "fr": "pratiquer",
+  "it": "esercitarsi",
+  "ja": "練習する",
+  "ja_roman": "renshū suru",
+  "zh": "练习",
+  "zh_roman": "liànxí"
+ },
+ "verb-breathe": {
+  "thema": "Körper & Gesundheit",
+  "emoji": "🌬️"
+ },
+ "verb-color": {
+  "raus": "1"
+ },
+ "verb-travel": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "🧳"
+ },
+ "verb-discuss": {
+  "thema": "Sprechen & Denken",
+  "emoji": "🗣️",
+  "de": "besprechen"
+ },
+ "verb-fill": {
+  "thema": "Tun (Verben)",
+  "emoji": "🫗",
+  "ja": "いっぱいにする",
+  "ja_roman": "ippai ni suru"
+ },
+ "verb-pray": {
+  "thema": "Sonstiges",
+  "emoji": "🙏"
+ },
+ "verb-wash": {
+  "thema": "Zuhause",
+  "emoji": "🧼"
+ },
+ "verb-focus": {
+  "raus": "1"
+ },
+ "verb-draw": {
+  "thema": "Freizeit & Sport",
+  "emoji": "✏️",
+  "ja_roman": "kaku"
+ },
+ "verb-introduce": {
+  "thema": "Sprechen & Denken",
+  "emoji": "🙋"
+ },
+ "verb-add": {
+  "thema": "Tun (Verben)",
+  "emoji": "➕",
+  "ja": "加える",
+  "ja_roman": "kuwaeru"
+ },
+ "verb-paint": {
+  "thema": "Freizeit & Sport",
+  "emoji": "🎨",
+  "de": "malen",
+  "zh": "画",
+  "zh_roman": "huà"
+ },
+ "verb-repeat": {
+  "thema": "Sprechen & Denken",
+  "emoji": "🔁"
+ },
+ "verb-celebrate": {
+  "thema": "Freizeit & Sport",
+  "emoji": "🎉",
+  "fr": "célébrer"
+ },
+ "verb-swim": {
+  "thema": "Freizeit & Sport",
+  "emoji": "🏊"
+ },
+ "verb-arrive": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "🛬",
+  "de": "ankommen",
+  "zh": "到达",
+  "zh_roman": "dàodá"
+ },
+ "verb-solve": {
+  "thema": "Sprechen & Denken",
+  "emoji": "🧩",
+  "es": "resolver",
+  "fr": "résoudre"
+ },
+ "verb-borrow": {
+  "thema": "Einkaufen & Geld",
+  "emoji": "🤲",
+  "de": "sich leihen"
+ },
+ "verb-collect": {
+  "thema": "Freizeit & Sport",
+  "emoji": "🗃️",
+  "es": "coleccionar",
+  "fr": "collectionner",
+  "it": "collezionare"
+ },
+ "verb-describe": {
+  "thema": "Sprechen & Denken",
+  "emoji": "📝",
+  "ja": "説明する",
+  "ja_roman": "setsumei suru"
+ },
+ "verb-exercise": {
+  "thema": "Körper & Gesundheit",
+  "emoji": "🏃",
+  "de": "Sport machen",
+  "es": "hacer ejercicio",
+  "fr": "faire de l'exercice",
+  "it": "fare esercizio",
+  "ja": "運動する",
+  "ja_roman": "undō suru",
+  "zh": "锻炼",
+  "zh_roman": "duànliàn"
+ },
+ "verb-brush": {
+  "thema": "Körper & Gesundheit",
+  "emoji": "🪥",
+  "de": "bürsten",
+  "ja": "ブラシをかける",
+  "ja_roman": "burashi o kakeru"
+ },
+ "verb-greet": {
+  "thema": "Sprechen & Denken",
+  "emoji": "👋",
+  "fr": "saluer",
+  "zh": "打招呼",
+  "zh_roman": "dǎ zhāohu"
+ },
+ "adj-right": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "➡️",
+  "de": "rechts",
+  "es": "derecho",
+  "fr": "droit",
+  "it": "destro"
+ },
+ "adj-well": {
+  "raus": "1"
+ },
+ "adj-good": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "👍"
+ },
+ "adj-only": {
+  "raus": "1"
+ },
+ "adj-little": {
+  "raus": "1"
+ },
+ "adj-sorry": {
+  "raus": "1"
+ },
+ "adj-off": {
+  "raus": "1"
+ },
+ "adj-sure": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "✅"
+ },
+ "adj-first": {
+  "thema": "Sonstiges",
+  "emoji": "🥇",
+  "de": "erste",
+  "es": "primero"
+ },
+ "adj-still": {
+  "raus": "1"
+ },
+ "adj-great": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "🌟",
+  "de": "großartig",
+  "es": "genial",
+  "fr": "génial",
+  "it": "fantastico",
+  "ja": "素晴らしい",
+  "ja_roman": "subarashii",
+  "zh": "太棒了",
+  "zh_roman": "tài bàng le"
+ },
+ "adj-better": {
+  "raus": "1"
+ },
+ "adj-new": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "✨",
+  "ja": "新しい",
+  "ja_roman": "atarashii",
+  "zh": "新的",
+  "zh_roman": "xīn de"
+ },
+ "adj-long": {
+  "thema": "Farben & Formen",
+  "emoji": "📏"
+ },
+ "adj-old": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "🕰️"
+ },
+ "adj-nice": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "🙂",
+  "de": "nett",
+  "es": "amable",
+  "ja": "優しい",
+  "ja_roman": "yasashii",
+  "zh": "好",
+  "zh_roman": "hǎo"
+ },
+ "adj-fine": {
+  "raus": "1"
+ },
+ "adj-left": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "⬅️",
+  "de": "links",
+  "es": "izquierdo"
+ },
+ "adj-wrong": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "❌"
+ },
+ "adj-bad": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "👎",
+  "zh": "坏",
+  "zh_roman": "huài"
+ },
+ "adj-own": {
+  "raus": "1"
+ },
+ "adj-same": {
+  "thema": "Sonstiges",
+  "emoji": "🟰",
+  "de": "gleich",
+  "es": "mismo"
+ },
+ "adj-best": {
+  "raus": "1"
+ },
+ "adj-real": {
+  "raus": "1"
+ },
+ "adj-ready": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "🟢",
+  "ja": "準備ができた",
+  "ja_roman": "junbi ga dekita",
+  "zh": "准备好了",
+  "zh_roman": "zhǔnbèi hǎo le"
+ },
+ "adj-happy": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "😊",
+  "de": "glücklich",
+  "ja": "幸せ",
+  "ja_roman": "shiawase"
+ },
+ "adj-pretty": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "🌸",
+  "de": "hübsch",
+  "ja": "きれい",
+  "ja_roman": "kirei"
+ },
+ "adj-hard": {
+  "thema": "Farben & Formen",
+  "emoji": "🪨"
+ },
+ "adj-open": {
+  "thema": "Sonstiges",
+  "emoji": "🔓",
+  "de": "offen",
+  "ja": "開いている",
+  "ja_roman": "aite iru",
+  "zh": "开着",
+  "zh_roman": "kāizhe"
+ },
+ "adj-true": {
+  "raus": "1"
+ },
+ "adj-beautiful": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "🌺",
+  "fr": "beau",
+  "it": "bello",
+  "ja": "美しい",
+  "ja_roman": "utsukushii",
+  "zh": "美丽",
+  "zh_roman": "měilì"
+ },
+ "adj-young": {
+  "thema": "Familie & Menschen",
+  "emoji": "🧒"
+ },
+ "adj-second": {
+  "thema": "Sonstiges",
+  "emoji": "🥈",
+  "fr": "deuxième"
+ },
+ "adj-late": {
+  "thema": "Zeit",
+  "emoji": "⏰",
+  "ja": "遅い",
+  "ja_roman": "osoi"
+ },
+ "adj-easy": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "🍰",
+  "de": "leicht (einfach)"
+ },
+ "adj-different": {
+  "thema": "Sonstiges",
+  "emoji": "🔀",
+  "de": "anders",
+  "it": "diverso"
+ },
+ "adj-afraid": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "😨",
+  "de": "ängstlich",
+  "es": "asustado",
+  "it": "spaventato"
+ },
+ "adj-dear": {
+  "raus": "1"
+ },
+ "adj-close": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "📍",
+  "fr": "proche"
+ },
+ "adj-fun": {
+  "raus": "1"
+ },
+ "adj-important": {
+  "thema": "Sonstiges",
+  "emoji": "❗"
+ },
+ "adj-high": {
+  "thema": "Farben & Formen",
+  "emoji": "🏔️"
+ },
+ "adj-cool": {
+  "thema": "Wetter",
+  "emoji": "🌬️",
+  "it": "fresco"
+ },
+ "adj-free": {
+  "thema": "Sonstiges",
+  "emoji": "🕊️",
+  "zh": "自由",
+  "zh_roman": "zìyóu"
+ },
+ "adj-front": {
+  "raus": "1"
+ },
+ "adj-full": {
+  "thema": "Essen & Trinken",
+  "emoji": "🈵",
+  "ja": "いっぱい",
+  "ja_roman": "ippai",
+  "zh": "满",
+  "zh_roman": "mǎn"
+ },
+ "adj-light": {
+  "thema": "Farben & Formen",
+  "emoji": "🪶",
+  "de": "leicht (Gewicht)"
+ },
+ "adj-hot": {
+  "thema": "Wetter",
+  "emoji": "🔥"
+ },
+ "adj-funny": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "😄",
+  "zh": "好笑",
+  "zh_roman": "hǎoxiào"
+ },
+ "adj-black": {
+  "thema": "Farben & Formen",
+  "emoji": "⚫",
+  "zh": "黑色",
+  "zh_roman": "hēisè"
+ },
+ "adj-living": {
+  "raus": "1"
+ },
+ "adj-white": {
+  "thema": "Farben & Formen",
+  "emoji": "⚪",
+  "zh": "白色",
+  "zh_roman": "báisè"
+ },
+ "adj-special": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "🎁",
+  "de": "besonders",
+  "zh": "特别",
+  "zh_roman": "tèbié"
+ },
+ "adj-sick": {
+  "thema": "Körper & Gesundheit",
+  "emoji": "🤒",
+  "de": "krank",
+  "es": "enfermo",
+  "fr": "malade",
+  "it": "malato",
+  "ja": "病気",
+  "ja_roman": "byōki",
+  "zh": "生病",
+  "zh_roman": "shēngbìng"
+ },
+ "adj-poor": {
+  "thema": "Einkaufen & Geld",
+  "emoji": "🪙",
+  "es": "pobre"
+ },
+ "adj-glad": {
+  "raus": "1"
+ },
+ "adj-fast": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "🏎️"
+ },
+ "adj-cold": {
+  "thema": "Wetter",
+  "emoji": "🥶",
+  "ja": "寒い",
+  "ja_roman": "samui"
+ },
+ "adj-sweet": {
+  "thema": "Essen & Trinken",
+  "emoji": "🍬"
+ },
+ "adj-lucky": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "🍀",
+  "ja": "幸運な",
+  "ja_roman": "kōun na",
+  "de": "Glück habend"
+ },
+ "adj-quiet": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "🤫",
+  "de": "leise",
+  "es": "silencioso",
+  "fr": "silencieux"
+ },
+ "adj-careful": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "⚠️",
+  "ja": "注意深い",
+  "ja_roman": "chūibukai"
+ },
+ "adj-wonderful": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "🤩",
+  "es": "maravilloso",
+  "it": "meraviglioso",
+  "ja": "素晴らしい",
+  "ja_roman": "subarashii",
+  "zh": "精彩",
+  "zh_roman": "jīngcǎi"
+ },
+ "adj-clean": {
+  "thema": "Zuhause",
+  "emoji": "✨",
+  "ja": "きれいな",
+  "ja_roman": "kirei na"
+ },
+ "adj-strong": {
+  "thema": "Körper & Gesundheit",
+  "emoji": "💪"
+ },
+ "adj-strange": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "🤨",
+  "ja": "変な",
+  "ja_roman": "hen na"
+ },
+ "adj-tired": {
+  "thema": "Körper & Gesundheit",
+  "emoji": "😴",
+  "it": "stanco"
+ },
+ "adj-busy": {
+  "thema": "Schule & Arbeit",
+  "emoji": "📆"
+ },
+ "adj-dark": {
+  "thema": "Farben & Formen",
+  "emoji": "🌑",
+  "zh": "黑暗",
+  "zh_roman": "hēi'àn"
+ },
+ "adj-terrible": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "😱",
+  "fr": "terrible",
+  "zh": "可怕",
+  "zh_roman": "kěpà"
+ },
+ "adj-blue": {
+  "thema": "Farben & Formen",
+  "emoji": "🔵"
+ },
+ "adj-lovely": {
+  "raus": "1"
+ },
+ "adj-middle": {
+  "raus": "1"
+ },
+ "adj-fair": {
+  "raus": "1"
+ },
+ "adj-interesting": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "🧐"
+ },
+ "adj-short": {
+  "thema": "Farben & Formen",
+  "emoji": "📏"
+ },
+ "adj-key": {
+  "raus": "1"
+ },
+ "adj-gold": {
+  "raus": "1"
+ },
+ "adj-interested": {
+  "raus": "1"
+ },
+ "adj-difficult": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "🧗",
+  "de": "schwierig"
+ },
+ "adj-smart": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "🧠",
+  "es": "inteligente"
+ },
+ "adj-personal": {
+  "raus": "1"
+ },
+ "adj-angry": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "😠",
+  "de": "wütend",
+  "es": "enfadado",
+  "fr": "fâché",
+  "zh": "生气",
+  "zh_roman": "shēngqì"
+ },
+ "adj-rich": {
+  "thema": "Einkaufen & Geld",
+  "emoji": "💎",
+  "ja": "金持ちの",
+  "ja_roman": "kanemochi no"
+ },
+ "adj-sad": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "😢",
+  "zh": "难过",
+  "zh_roman": "nánguò"
+ },
+ "adj-broken": {
+  "thema": "Sonstiges",
+  "emoji": "🔧",
+  "de": "kaputt",
+  "zh": "坏了",
+  "zh_roman": "huài le"
+ },
+ "adj-hungry": {
+  "thema": "Essen & Trinken",
+  "emoji": "🍽️",
+  "ja": "お腹が空いた",
+  "ja_roman": "onaka ga suita"
+ },
+ "adj-green": {
+  "thema": "Farben & Formen",
+  "emoji": "🟢",
+  "ja": "緑",
+  "ja_roman": "midori",
+  "zh": "绿色",
+  "zh_roman": "lǜsè"
+ },
+ "adj-cute": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "🥰",
+  "de": "süß (niedlich)",
+  "es": "mono"
+ },
+ "adj-slow": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "🐌",
+  "ja": "遅い",
+  "ja_roman": "osoi"
+ },
+ "adj-dirty": {
+  "thema": "Zuhause",
+  "emoji": "🧦"
+ },
+ "adj-fat": {
+  "thema": "Körper & Gesundheit",
+  "emoji": "🍔",
+  "ja": "太った",
+  "ja_roman": "futotta",
+  "de": "dick (Person)"
+ },
+ "adj-closed": {
+  "thema": "Sonstiges",
+  "emoji": "🔒",
+  "ja": "閉まっている",
+  "ja_roman": "shimatte iru",
+  "zh": "关着",
+  "zh_roman": "guānzhe"
+ },
+ "adj-following": {
+  "raus": "1"
+ },
+ "adj-excited": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "🤩",
+  "de": "aufgeregt",
+  "ja": "わくわくした",
+  "ja_roman": "wakuwaku shita"
+ },
+ "adj-warm": {
+  "thema": "Wetter",
+  "emoji": "🌤️"
+ },
+ "adj-heavy": {
+  "thema": "Farben & Formen",
+  "emoji": "🏋️"
+ },
+ "adj-famous": {
+  "thema": "Sonstiges",
+  "emoji": "🌟",
+  "de": "berühmt",
+  "es": "famoso",
+  "fr": "célèbre",
+  "zh": "有名",
+  "zh_roman": "yǒumíng"
+ },
+ "adj-large": {
+  "raus": "1"
+ },
+ "adj-excellent": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "💯",
+  "zh": "优秀",
+  "zh_roman": "yōuxiù"
+ },
+ "adj-due": {
+  "raus": "1"
+ },
+ "adj-correct": {
+  "thema": "Schule & Arbeit",
+  "emoji": "✔️",
+  "de": "richtig",
+  "it": "corretto",
+  "ja": "正しい",
+  "ja_roman": "tadashii"
+ },
+ "adj-tight": {
+  "thema": "Kleidung",
+  "emoji": "🩳"
+ },
+ "adj-super": {
+  "raus": "1"
+ },
+ "adj-brown": {
+  "thema": "Farben & Formen",
+  "emoji": "🟤",
+  "es": "marrón",
+  "it": "marrone",
+  "ja": "茶色",
+  "ja_roman": "chairo"
+ },
+ "adj-dry": {
+  "thema": "Wetter",
+  "emoji": "🏜️"
+ },
+ "adj-social": {
+  "raus": "1"
+ },
+ "adj-ugly": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "🙈"
+ },
+ "adj-lonely": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "🫥"
+ },
+ "adj-handsome": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "🤵",
+  "de": "gutaussehend",
+  "es": "guapo"
+ },
+ "adj-bright": {
+  "thema": "Farben & Formen",
+  "emoji": "🔆",
+  "de": "hell",
+  "es": "brillante",
+  "it": "luminoso",
+  "zh": "明亮",
+  "zh_roman": "míngliàng"
+ },
+ "adj-exciting": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "🎢",
+  "ja": "わくわくする",
+  "ja_roman": "wakuwaku suru",
+  "zh": "刺激",
+  "zh_roman": "cìjī"
+ },
+ "adj-expensive": {
+  "thema": "Einkaufen & Geld",
+  "emoji": "💰"
+ },
+ "adj-foreign": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "🌍",
+  "de": "fremd"
+ },
+ "adj-boring": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "🥱"
+ },
+ "adj-delicious": {
+  "thema": "Essen & Trinken",
+  "emoji": "😋",
+  "de": "lecker",
+  "es": "delicioso",
+  "zh_roman": "hǎochī"
+ },
+ "adj-tall": {
+  "thema": "Körper & Gesundheit",
+  "emoji": "🦒",
+  "ja": "背が高い",
+  "ja_roman": "se ga takai",
+  "de": "groß (Körper)"
+ },
+ "adj-clever": {
+  "raus": "1"
+ },
+ "adj-yellow": {
+  "thema": "Farben & Formen",
+  "emoji": "🟡",
+  "zh": "黄色",
+  "zh_roman": "huángsè"
+ },
+ "adj-healthy": {
+  "thema": "Körper & Gesundheit",
+  "emoji": "🥗"
+ },
+ "adj-awake": {
+  "thema": "Körper & Gesundheit",
+  "emoji": "👁️",
+  "ja": "起きている",
+  "ja_roman": "okite iru",
+  "zh": "醒着",
+  "zh_roman": "xǐngzhe"
+ },
+ "adj-false": {
+  "raus": "1"
+ },
+ "adj-successful": {
+  "thema": "Schule & Arbeit",
+  "emoji": "🏆",
+  "es": "exitoso",
+  "fr": "réussi",
+  "it": "di successo",
+  "zh": "成功",
+  "zh_roman": "chénggōng"
+ },
+ "adj-rude": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "😤",
+  "de": "unhöflich"
+ },
+ "adj-merry": {
+  "raus": "1"
+ },
+ "adj-pink": {
+  "thema": "Farben & Formen",
+  "emoji": "🩷",
+  "de": "rosa",
+  "es": "rosa",
+  "zh": "粉色",
+  "zh_roman": "fěnsè"
+ },
+ "adj-thin": {
+  "thema": "Körper & Gesundheit",
+  "emoji": "🥢",
+  "es": "delgado",
+  "fr": "maigre",
+  "it": "magro",
+  "ja": "痩せた",
+  "ja_roman": "yaseta",
+  "zh": "瘦",
+  "zh_roman": "shòu"
+ },
+ "adj-shy": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "😳",
+  "de": "schüchtern",
+  "es": "tímido",
+  "fr": "timide",
+  "ja": "恥ずかしがり",
+  "ja_roman": "hazukashigari",
+  "zh": "害羞",
+  "zh_roman": "hàixiū"
+ },
+ "adj-orange": {
+  "thema": "Farben & Formen",
+  "emoji": "🟠",
+  "ja": "オレンジ色",
+  "ja_roman": "orenji-iro"
+ },
+ "adj-everyday": {
+  "raus": "1"
+ },
+ "adj-thick": {
+  "thema": "Farben & Formen",
+  "emoji": "📚",
+  "ja": "厚い",
+  "ja_roman": "atsui",
+  "de": "dick (Gegenstand)"
+ },
+ "adj-gray": {
+  "thema": "Farben & Formen",
+  "emoji": "⚪",
+  "ja_roman": "haiiro"
+ },
+ "adj-lazy": {
+  "thema": "Gefühle & Eigenschaften",
+  "emoji": "🦥",
+  "es": "perezoso",
+  "ja": "怠け者の",
+  "ja_roman": "namakemono no"
+ },
+ "adj-sunny": {
+  "thema": "Wetter",
+  "emoji": "☀️"
+ },
+ "adj-ideal": {
+  "raus": "1"
+ },
+ "adj-blank": {
+  "raus": "1"
+ },
+ "adj-strict": {
+  "thema": "Schule & Arbeit",
+  "emoji": "📏",
+  "it": "severo"
+ },
+ "adj-elementary": {
+  "raus": "1"
+ },
+ "adj-rainy": {
+  "thema": "Wetter",
+  "emoji": "🌧️",
+  "ja": "雨の",
+  "ja_roman": "ame no",
+  "zh": "下雨的",
+  "zh_roman": "xiàyǔ de"
+ },
+ "adj-cloudy": {
+  "thema": "Wetter",
+  "emoji": "☁️",
+  "it": "nuvoloso"
+ },
+ "adj-snowy": {
+  "thema": "Wetter",
+  "emoji": "🌨️",
+  "de": "verschneit",
+  "ja": "雪の",
+  "ja_roman": "yuki no",
+  "zh": "下雪的",
+  "zh_roman": "xiàxuě de"
+ },
+ "adj-foggy": {
+  "thema": "Wetter",
+  "emoji": "🌫️",
+  "ja": "霧の",
+  "ja_roman": "kiri no",
+  "zh": "有雾的",
+  "zh_roman": "yǒu wù de"
+ },
+ "adv-there": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "👉",
+  "fr": "là",
+  "ja": "そこ",
+  "ja_roman": "soko"
+ },
+ "adv-here": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "📍"
+ },
+ "adv-now": {
+  "thema": "Zeit",
+  "emoji": "⏱️"
+ },
+ "adv-well": {
+  "raus": "1"
+ },
+ "adv-really": {
+  "thema": "Sprechen & Denken",
+  "emoji": "❗"
+ },
+ "adv-too": {
+  "raus": "1"
+ },
+ "adv-very": {
+  "thema": "Sonstiges",
+  "emoji": "‼️"
+ },
+ "adv-never": {
+  "thema": "Zeit",
+  "emoji": "🚫",
+  "ja": "決して",
+  "ja_roman": "kesshite",
+  "zh": "从不",
+  "zh_roman": "cóngbù"
+ },
+ "adv-only": {
+  "thema": "Sonstiges",
+  "emoji": "1️⃣",
+  "es": "solo",
+  "ja": "だけ",
+  "ja_roman": "dake",
+  "zh": "只",
+  "zh_roman": "zhǐ"
+ },
+ "adv-again": {
+  "thema": "Zeit",
+  "emoji": "🔁",
+  "es": "otra vez",
+  "fr": "encore une fois",
+  "it": "di nuovo"
+ },
+ "adv-maybe": {
+  "thema": "Sprechen & Denken",
+  "emoji": "🤷",
+  "es": "quizás",
+  "zh": "也许",
+  "zh_roman": "yěxǔ"
+ },
+ "adv-away": {
+  "raus": "1"
+ },
+ "adv-always": {
+  "thema": "Zeit",
+  "emoji": "♾️"
+ },
+ "adv-today": {
+  "thema": "Zeit",
+  "emoji": "📅",
+  "zh_roman": "jīntiān"
+ },
+ "adv-together": {
+  "thema": "Familie & Menschen",
+  "emoji": "🤝",
+  "es": "juntos"
+ },
+ "adv-already": {
+  "thema": "Zeit",
+  "emoji": "✅",
+  "zh": "已经",
+  "zh_roman": "yǐjīng"
+ },
+ "adv-also": {
+  "thema": "Sonstiges",
+  "emoji": "➕",
+  "ja": "も",
+  "ja_roman": "mo"
+ },
+ "adv-tomorrow": {
+  "thema": "Zeit",
+  "emoji": "🌅",
+  "ja": "明日",
+  "ja_roman": "ashita"
+ },
+ "adv-tonight": {
+  "thema": "Zeit",
+  "emoji": "🌃",
+  "fr": "ce soir"
+ },
+ "adv-soon": {
+  "thema": "Zeit",
+  "emoji": "⏳",
+  "ja": "もうすぐ",
+  "ja_roman": "mōsugu",
+  "zh": "很快",
+  "zh_roman": "hěn kuài"
+ },
+ "adv-late": {
+  "raus": "1"
+ },
+ "adv-outside": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "🌳",
+  "de": "draußen"
+ },
+ "adv-fast": {
+  "raus": "1"
+ },
+ "adv-early": {
+  "thema": "Zeit",
+  "emoji": "🌄"
+ },
+ "adv-yesterday": {
+  "thema": "Zeit",
+  "emoji": "⏪",
+  "ja": "昨日",
+  "ja_roman": "kinō"
+ },
+ "adv-quickly": {
+  "thema": "Unterwegs & Orte",
+  "emoji": "💨",
+  "es": "rápidamente",
+  "ja": "速く",
+  "ja_roman": "hayaku",
+  "zh": "快",
+  "zh_roman": "kuài",
+  "de": "rasch"
+ },
+ "adv-often": {
+  "thema": "Zeit",
+  "emoji": "🔂",
+  "de": "oft",
+  "es": "a menudo"
+ },
+ "adv-usually": {
+  "thema": "Zeit",
+  "emoji": "🔄",
+  "de": "meistens",
+  "es": "normalmente",
+  "fr": "d'habitude",
+  "it": "di solito",
+  "ja": "たいてい",
+  "ja_roman": "taitei"
+ }
+}

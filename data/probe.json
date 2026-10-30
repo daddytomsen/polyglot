@@ -1,0 +1,1060 @@
+{
+ "erzeugt": "2026-10-29",
+ "lizenzhinweis": "Übersetzungen aus dem englischen Wiktionary via kaikki.org (CC BY-SA 3.0); Häufigkeiten aus hermitdave/FrequencyWords (MIT).",
+ "sprachen": {
+  "es": "Spanisch",
+  "fr": "Französisch",
+  "it": "Italienisch",
+  "ja": "Japanisch",
+  "zh": "Chinesisch"
+ },
+ "karten": [
+  {
+   "id": "noun-car",
+   "en": "car",
+   "pos": "noun",
+   "sinn": "automobile, a vehicle steered by a driver",
+   "quelle": "kaikki.org/dictionary/English/meaning/c/ca/car.html",
+   "de": "das Auto",
+   "sprachen": {
+    "es": {
+     "w": "coche",
+     "roman": "",
+     "tags": [
+      "Philippines",
+      "Spain"
+     ],
+     "rang": 408,
+     "kuratiert": false,
+     "akzeptiert": [
+      "auto",
+      "automóvil",
+      "buga",
+      "carro",
+      "mueble (El Norte)",
+      "máquina",
+      "pupú"
+     ]
+    },
+    "fr": {
+     "w": "voiture",
+     "roman": "",
+     "tags": [],
+     "rang": 257,
+     "kuratiert": false,
+     "akzeptiert": [
+      "auto",
+      "automobile",
+      "char"
+     ]
+    },
+    "it": {
+     "w": "macchina",
+     "roman": "",
+     "tags": [],
+     "rang": 350,
+     "kuratiert": false,
+     "akzeptiert": [
+      "auto",
+      "automobile",
+      "autovettura"
+     ]
+    },
+    "ja": {
+     "w": "車",
+     "roman": "kuruma",
+     "tags": [],
+     "rang": 155,
+     "kuratiert": false,
+     "akzeptiert": [
+      "jidōsha",
+      "kuruma",
+      "自動車"
+     ]
+    },
+    "zh": {
+     "w": "车",
+     "roman": "chē",
+     "tags": [],
+     "rang": 460,
+     "kuratiert": false,
+     "akzeptiert": [
+      "chē",
+      "qìchē",
+      "汽車",
+      "汽车",
+      "車"
+     ]
+    }
+   },
+   "warnungen": [],
+   "emoji": "🚗"
+  },
+  {
+   "id": "noun-dog",
+   "en": "dog",
+   "pos": "noun",
+   "sinn": "animal",
+   "quelle": "kaikki.org/dictionary/English/meaning/d/do/dog.html",
+   "de": "der Hund",
+   "sprachen": {
+    "es": {
+     "w": "perro",
+     "roman": "",
+     "tags": [],
+     "rang": 622,
+     "kuratiert": false,
+     "akzeptiert": [
+      "can",
+      "pichicho",
+      "tuso"
+     ]
+    },
+    "fr": {
+     "w": "chien",
+     "roman": "",
+     "tags": [],
+     "rang": 594,
+     "kuratiert": false,
+     "akzeptiert": []
+    },
+    "it": {
+     "w": "cane",
+     "roman": "",
+     "tags": [],
+     "rang": 730,
+     "kuratiert": false,
+     "akzeptiert": []
+    },
+    "ja": {
+     "w": "犬",
+     "roman": "inu",
+     "tags": [],
+     "rang": 562,
+     "kuratiert": false,
+     "akzeptiert": [
+      "inu",
+      "狗"
+     ]
+    },
+    "zh": {
+     "w": "狗",
+     "roman": "gǒu",
+     "tags": [],
+     "rang": 634,
+     "kuratiert": false,
+     "akzeptiert": [
+      "gǒu",
+      "quǎn",
+      "犬"
+     ]
+    }
+   },
+   "warnungen": [
+    "4 Bedeutungen, Automatik wählte: animal"
+   ],
+   "emoji": "🐕"
+  },
+  {
+   "id": "noun-cat",
+   "en": "cat",
+   "pos": "noun",
+   "sinn": "domestic species",
+   "quelle": "kaikki.org/dictionary/English/meaning/c/ca/cat.html",
+   "de": "die Katze",
+   "sprachen": {
+    "es": {
+     "w": "gato",
+     "roman": "",
+     "tags": [],
+     "rang": 1531,
+     "kuratiert": false,
+     "akzeptiert": [
+      "gata",
+      "gatesco",
+      "gatuno",
+      "mish",
+      "misha",
+      "mishinga",
+      "mishingo"
+     ]
+    },
+    "fr": {
+     "w": "chat",
+     "roman": "",
+     "tags": [],
+     "rang": 1442,
+     "kuratiert": false,
+     "akzeptiert": [
+      "chatte"
+     ]
+    },
+    "it": {
+     "w": "gatto",
+     "roman": "",
+     "tags": [],
+     "rang": 1752,
+     "kuratiert": false,
+     "akzeptiert": [
+      "gatta",
+      "micia",
+      "micio"
+     ]
+    },
+    "ja": {
+     "w": "猫",
+     "roman": "neko",
+     "tags": [],
+     "rang": 1547,
+     "kuratiert": false,
+     "akzeptiert": [
+      "ieneko",
+      "neko",
+      "nekoma",
+      "家猫",
+      "猫ま"
+     ]
+    },
+    "zh": {
+     "w": "猫",
+     "roman": "māo",
+     "tags": [],
+     "rang": 1471,
+     "kuratiert": false,
+     "akzeptiert": [
+      "māo",
+      "māor",
+      "猫儿",
+      "貓",
+      "貓兒"
+     ]
+    }
+   },
+   "warnungen": [
+    "12 Bedeutungen, Automatik wählte: domestic species"
+   ],
+   "emoji": "🐈"
+  },
+  {
+   "id": "noun-house",
+   "en": "house",
+   "pos": "noun",
+   "sinn": "human abode",
+   "quelle": "kaikki.org/dictionary/English/meaning/h/ho/house.html",
+   "de": "das Haus",
+   "sprachen": {
+    "es": {
+     "w": "casa",
+     "roman": "",
+     "tags": [],
+     "rang": 91,
+     "kuratiert": false,
+     "akzeptiert": [
+      "casalicio"
+     ]
+    },
+    "fr": {
+     "w": "maison",
+     "roman": "",
+     "tags": [],
+     "rang": 189,
+     "kuratiert": false,
+     "akzeptiert": []
+    },
+    "it": {
+     "w": "casa",
+     "roman": "",
+     "tags": [],
+     "rang": 106,
+     "kuratiert": false,
+     "akzeptiert": []
+    },
+    "ja": {
+     "w": "家",
+     "roman": "ie",
+     "tags": [],
+     "rang": 116,
+     "kuratiert": true,
+     "akzeptiert": [
+      "ikkodate",
+      "kaoku",
+      "osumai",
+      "otaku",
+      "tatemono",
+      "お住まい",
+      "お宅",
+      "一戸建て",
+      "家屋",
+      "建物"
+     ]
+    },
+    "zh": {
+     "w": "家",
+     "roman": "jiā",
+     "tags": [],
+     "rang": 400,
+     "kuratiert": false,
+     "akzeptiert": [
+      "fángwū",
+      "fángzi",
+      "jiā",
+      "wūzi",
+      "zhùzhái",
+      "住宅",
+      "屋子",
+      "房子",
+      "房屋"
+     ]
+    }
+   },
+   "warnungen": [
+    "12 Bedeutungen, Automatik wählte: human abode"
+   ],
+   "emoji": "🏠"
+  },
+  {
+   "id": "noun-water",
+   "en": "water",
+   "pos": "noun",
+   "sinn": "inorganic compound H₂O",
+   "quelle": "kaikki.org/dictionary/English/meaning/w/wa/water.html",
+   "de": "das Wasser",
+   "sprachen": {
+    "es": {
+     "w": "agua",
+     "roman": "",
+     "tags": [],
+     "rang": 358,
+     "kuratiert": false,
+     "akzeptiert": [
+      "aguacha",
+      "linfa",
+      "wata"
+     ]
+    },
+    "fr": {
+     "w": "eau",
+     "roman": "",
+     "tags": [],
+     "rang": 398,
+     "kuratiert": false,
+     "akzeptiert": [
+      "aigue"
+     ]
+    },
+    "it": {
+     "w": "acqua",
+     "roman": "",
+     "tags": [],
+     "rang": 482,
+     "kuratiert": false,
+     "akzeptiert": []
+    },
+    "ja": {
+     "w": "水",
+     "roman": "mizu",
+     "tags": [],
+     "rang": 485,
+     "kuratiert": false,
+     "akzeptiert": [
+      "mizu"
+     ]
+    },
+    "zh": {
+     "w": "水",
+     "roman": "shuǐ",
+     "tags": [],
+     "rang": 807,
+     "kuratiert": false,
+     "akzeptiert": [
+      "shuǐ"
+     ]
+    }
+   },
+   "warnungen": [
+    "10 Bedeutungen, Automatik wählte: inorganic compound H₂O"
+   ],
+   "emoji": "💧"
+  },
+  {
+   "id": "noun-bread",
+   "en": "bread",
+   "pos": "noun",
+   "sinn": "baked dough made from cereals",
+   "quelle": "kaikki.org/dictionary/English/meaning/b/br/bread.html",
+   "de": "das Brot",
+   "sprachen": {
+    "es": {
+     "w": "pan",
+     "roman": "",
+     "tags": [],
+     "rang": 1549,
+     "kuratiert": false,
+     "akzeptiert": []
+    },
+    "fr": {
+     "w": "pain",
+     "roman": "",
+     "tags": [],
+     "rang": 1741,
+     "kuratiert": false,
+     "akzeptiert": []
+    },
+    "it": {
+     "w": "pane",
+     "roman": "",
+     "tags": [],
+     "rang": 2272,
+     "kuratiert": false,
+     "akzeptiert": []
+    },
+    "ja": {
+     "w": "パン",
+     "roman": "pan",
+     "tags": [],
+     "rang": 1981,
+     "kuratiert": false,
+     "akzeptiert": [
+      "pan"
+     ]
+    },
+    "zh": {
+     "w": "面包",
+     "roman": "miànbāo",
+     "tags": [],
+     "rang": 2487,
+     "kuratiert": false,
+     "akzeptiert": [
+      "miànbāo",
+      "麵包"
+     ]
+    }
+   },
+   "warnungen": [
+    "4 Bedeutungen, Automatik wählte: baked dough made from cereals"
+   ],
+   "emoji": "🍞"
+  },
+  {
+   "id": "noun-apple",
+   "en": "apple",
+   "pos": "noun",
+   "sinn": "fruit of Malus domestica",
+   "quelle": "kaikki.org/dictionary/English/meaning/a/ap/apple.html",
+   "de": "der Apfel",
+   "sprachen": {
+    "es": {
+     "w": "manzana",
+     "roman": "",
+     "tags": [],
+     "rang": 3475,
+     "kuratiert": false,
+     "akzeptiert": [
+      "mela",
+      "poma"
+     ]
+    },
+    "fr": {
+     "w": "pomme",
+     "roman": "",
+     "tags": [],
+     "rang": 4048,
+     "kuratiert": false,
+     "akzeptiert": []
+    },
+    "it": {
+     "w": "mela",
+     "roman": "",
+     "tags": [],
+     "rang": 4994,
+     "kuratiert": false,
+     "akzeptiert": [
+      "pomo"
+     ]
+    },
+    "ja": {
+     "w": "リンゴ",
+     "roman": "ringo",
+     "tags": [],
+     "rang": 6605,
+     "kuratiert": false,
+     "akzeptiert": [
+      "ringo",
+      "林檎",
+      "苹果"
+     ]
+    },
+    "zh": {
+     "w": "苹果",
+     "roman": "píngguǒ",
+     "tags": [],
+     "rang": 3424,
+     "kuratiert": false,
+     "akzeptiert": [
+      "píngguǒ",
+      "蘋果"
+     ]
+    }
+   },
+   "warnungen": [
+    "6 Bedeutungen, Automatik wählte: fruit of Malus domestica"
+   ],
+   "emoji": "🍎"
+  },
+  {
+   "id": "noun-book",
+   "en": "book",
+   "pos": "noun",
+   "sinn": "collection of sheets of paper bound together containing printed or written material",
+   "quelle": "kaikki.org/dictionary/English/meaning/b/bo/book.html",
+   "de": "das Buch",
+   "sprachen": {
+    "es": {
+     "w": "libro",
+     "roman": "",
+     "tags": [],
+     "rang": 612,
+     "kuratiert": false,
+     "akzeptiert": [
+      "libracho",
+      "libraco",
+      "librejo"
+     ]
+    },
+    "fr": {
+     "w": "livre",
+     "roman": "",
+     "tags": [],
+     "rang": 668,
+     "kuratiert": false,
+     "akzeptiert": [
+      "bouquin"
+     ]
+    },
+    "it": {
+     "w": "libro",
+     "roman": "",
+     "tags": [],
+     "rang": 677,
+     "kuratiert": false,
+     "akzeptiert": []
+    },
+    "ja": {
+     "w": "本",
+     "roman": "hon",
+     "tags": [],
+     "rang": 415,
+     "kuratiert": false,
+     "akzeptiert": [
+      "bukku",
+      "hon",
+      "shoseki",
+      "ブック",
+      "書籍"
+     ]
+    },
+    "zh": {
+     "w": "书",
+     "roman": "shū",
+     "tags": [],
+     "rang": 1073,
+     "kuratiert": false,
+     "akzeptiert": [
+      "shū",
+      "書"
+     ]
+    }
+   },
+   "warnungen": [
+    "6 Bedeutungen, Automatik wählte: collection of sheets of paper bound together containing prin"
+   ],
+   "emoji": "📖"
+  },
+  {
+   "id": "noun-tree",
+   "en": "tree",
+   "pos": "noun",
+   "sinn": "large woody plant",
+   "quelle": "kaikki.org/dictionary/English/meaning/t/tr/tree.html",
+   "de": "der Baum",
+   "sprachen": {
+    "es": {
+     "w": "árbol",
+     "roman": "",
+     "tags": [],
+     "rang": 1517,
+     "kuratiert": false,
+     "akzeptiert": []
+    },
+    "fr": {
+     "w": "arbre",
+     "roman": "",
+     "tags": [],
+     "rang": 1758,
+     "kuratiert": false,
+     "akzeptiert": []
+    },
+    "it": {
+     "w": "albero",
+     "roman": "",
+     "tags": [],
+     "rang": 1574,
+     "kuratiert": false,
+     "akzeptiert": []
+    },
+    "ja": {
+     "w": "木",
+     "roman": "ki",
+     "tags": [],
+     "rang": 1065,
+     "kuratiert": false,
+     "akzeptiert": [
+      "jumoku",
+      "ki",
+      "樹木"
+     ]
+    },
+    "zh": {
+     "w": "树",
+     "roman": "shù",
+     "tags": [],
+     "rang": 2862,
+     "kuratiert": false,
+     "akzeptiert": [
+      "qiáomù",
+      "shù",
+      "shùmù",
+      "乔木",
+      "喬木",
+      "树木",
+      "樹",
+      "樹木"
+     ]
+    }
+   },
+   "warnungen": [
+    "9 Bedeutungen, Automatik wählte: large woody plant"
+   ],
+   "emoji": "🌳"
+  },
+  {
+   "id": "noun-sun",
+   "en": "sun",
+   "pos": "noun",
+   "sinn": "a star, especially when seen as the centre of any single solar system",
+   "quelle": "kaikki.org/dictionary/English/meaning/s/su/sun.html",
+   "de": "die Sonne",
+   "sprachen": {
+    "es": {
+     "w": "sol",
+     "roman": "",
+     "tags": [],
+     "rang": 824,
+     "kuratiert": false,
+     "akzeptiert": []
+    },
+    "fr": {
+     "w": "soleil",
+     "roman": "",
+     "tags": [],
+     "rang": 892,
+     "kuratiert": false,
+     "akzeptiert": []
+    },
+    "it": {
+     "w": "sole",
+     "roman": "",
+     "tags": [],
+     "rang": 893,
+     "kuratiert": false,
+     "akzeptiert": []
+    },
+    "ja": {
+     "w": "太陽",
+     "roman": "taiyō",
+     "tags": [
+      "general"
+     ],
+     "rang": 1561,
+     "kuratiert": true,
+     "akzeptiert": [
+      "hi",
+      "kōsei",
+      "taiyō",
+      "恒星",
+      "日"
+     ]
+    },
+    "zh": {
+     "w": "太阳",
+     "roman": "tàiyáng",
+     "tags": [],
+     "rang": 1563,
+     "kuratiert": true,
+     "akzeptiert": [
+      "héngxīng",
+      "rì",
+      "rìtou, rìtóu",
+      "tàiyáng",
+      "太陽",
+      "恆星",
+      "恒星",
+      "日",
+      "日头",
+      "日頭"
+     ]
+    }
+   },
+   "warnungen": [
+    "4 Bedeutungen, Automatik wählte: a star, especially when seen as the centre of any single sol"
+   ],
+   "emoji": "☀️"
+  },
+  {
+   "id": "verb-eat",
+   "en": "eat",
+   "pos": "verb",
+   "sinn": "to ingest — see also consume, ingest",
+   "quelle": "kaikki.org/dictionary/English/meaning/e/ea/eat.html",
+   "de": "essen",
+   "sprachen": {
+    "es": {
+     "w": "comer",
+     "roman": "",
+     "tags": [],
+     "rang": 488,
+     "kuratiert": false,
+     "akzeptiert": [
+      "gandir",
+      "jamear",
+      "manducar",
+      "manyar",
+      "morfar",
+      "papear",
+      "tapiñar",
+      "yantar"
+     ]
+    },
+    "fr": {
+     "w": "manger",
+     "roman": "",
+     "tags": [],
+     "rang": 460,
+     "kuratiert": false,
+     "akzeptiert": [
+      "bouffer"
+     ]
+    },
+    "it": {
+     "w": "mangiare",
+     "roman": "",
+     "tags": [],
+     "rang": 581,
+     "kuratiert": false,
+     "akzeptiert": []
+    },
+    "ja": {
+     "w": "食べる",
+     "roman": "taberu",
+     "tags": [],
+     "rang": null,
+     "kuratiert": false,
+     "akzeptiert": [
+      "itadaku",
+      "kuu",
+      "meshiagaru",
+      "shokuji suru",
+      "taberu",
+      "召し上がる",
+      "頂く",
+      "食う",
+      "食事する"
+     ]
+    },
+    "zh": {
+     "w": "吃",
+     "roman": "chī",
+     "tags": [],
+     "rang": 143,
+     "kuratiert": false,
+     "akzeptiert": [
+      "bū",
+      "chī",
+      "shí",
+      "食",
+      "餔",
+      "𫗦"
+     ]
+    }
+   },
+   "warnungen": [],
+   "emoji": "🍽️"
+  },
+  {
+   "id": "verb-drink",
+   "en": "drink",
+   "pos": "verb",
+   "sinn": "consume liquid through the mouth",
+   "quelle": "kaikki.org/dictionary/English/meaning/d/dr/drink.html",
+   "de": "trinken",
+   "sprachen": {
+    "es": {
+     "w": "beber",
+     "roman": "",
+     "tags": [],
+     "rang": 1053,
+     "kuratiert": true,
+     "akzeptiert": [
+      "abrevar",
+      "tomar"
+     ]
+    },
+    "fr": {
+     "w": "boire",
+     "roman": "",
+     "tags": [],
+     "rang": 676,
+     "kuratiert": false,
+     "akzeptiert": []
+    },
+    "it": {
+     "w": "bere",
+     "roman": "",
+     "tags": [],
+     "rang": 650,
+     "kuratiert": false,
+     "akzeptiert": []
+    },
+    "ja": {
+     "w": "飲む",
+     "roman": "nomu",
+     "tags": [],
+     "rang": null,
+     "kuratiert": false,
+     "akzeptiert": [
+      "itadaku",
+      "meshiagaru",
+      "nomu",
+      "召し上がる",
+      "頂く"
+     ]
+    },
+    "zh": {
+     "w": "喝",
+     "roman": "hē",
+     "tags": [],
+     "rang": 394,
+     "kuratiert": false,
+     "akzeptiert": [
+      "hē",
+      "yǐn",
+      "飲",
+      "饮"
+     ]
+    }
+   },
+   "warnungen": [],
+   "emoji": "🥤"
+  },
+  {
+   "id": "adj-big",
+   "en": "big",
+   "pos": "adj",
+   "sinn": "of a great size — see also large",
+   "quelle": "kaikki.org/dictionary/English/meaning/b/bi/big.html",
+   "de": "groß",
+   "sprachen": {
+    "es": {
+     "w": "grande",
+     "roman": "",
+     "tags": [],
+     "rang": 398,
+     "kuratiert": false,
+     "akzeptiert": []
+    },
+    "fr": {
+     "w": "grand",
+     "roman": "",
+     "tags": [],
+     "rang": 270,
+     "kuratiert": false,
+     "akzeptiert": [
+      "gros"
+     ]
+    },
+    "it": {
+     "w": "grande",
+     "roman": "",
+     "tags": [],
+     "rang": 227,
+     "kuratiert": false,
+     "akzeptiert": [
+      "grosso"
+     ]
+    },
+    "ja": {
+     "w": "大きい",
+     "roman": "ōkii",
+     "tags": [],
+     "rang": null,
+     "kuratiert": false,
+     "akzeptiert": [
+      "ōkii"
+     ]
+    },
+    "zh": {
+     "w": "大",
+     "roman": "dà",
+     "tags": [],
+     "rang": 199,
+     "kuratiert": false,
+     "akzeptiert": [
+      "dà"
+     ]
+    }
+   },
+   "warnungen": [
+    "2 Bedeutungen, Automatik wählte: of a great size — see also large"
+   ],
+   "emoji": "🐘"
+  },
+  {
+   "id": "adj-small",
+   "en": "small",
+   "pos": "adj",
+   "sinn": "not large",
+   "quelle": "kaikki.org/dictionary/English/meaning/s/sm/small.html",
+   "de": "klein",
+   "sprachen": {
+    "es": {
+     "w": "pequeño",
+     "roman": "",
+     "tags": [],
+     "rang": 414,
+     "kuratiert": true,
+     "akzeptiert": [
+      "chico",
+      "parvo"
+     ]
+    },
+    "fr": {
+     "w": "petit",
+     "roman": "",
+     "tags": [],
+     "rang": 188,
+     "kuratiert": false,
+     "akzeptiert": [
+      "minuscule"
+     ]
+    },
+    "it": {
+     "w": "piccolo",
+     "roman": "",
+     "tags": [],
+     "rang": 446,
+     "kuratiert": false,
+     "akzeptiert": [
+      "ristretto"
+     ]
+    },
+    "ja": {
+     "w": "小さい",
+     "roman": "chiisai",
+     "tags": [],
+     "rang": null,
+     "kuratiert": true,
+     "akzeptiert": [
+      "chiisai",
+      "chiisana",
+      "semai",
+      "小さな",
+      "狭い"
+     ]
+    },
+    "zh": {
+     "w": "小",
+     "roman": "xiǎo",
+     "tags": [],
+     "rang": 245,
+     "kuratiert": false,
+     "akzeptiert": [
+      "xiǎo"
+     ]
+    }
+   },
+   "warnungen": [
+    "4 Bedeutungen, Automatik wählte: not large"
+   ],
+   "emoji": "🐜"
+  },
+  {
+   "id": "adj-red",
+   "en": "red",
+   "pos": "adj",
+   "sinn": "having red as its colour",
+   "quelle": "kaikki.org/dictionary/English/meaning/r/re/red.html",
+   "de": "rot",
+   "sprachen": {
+    "es": {
+     "w": "rojo",
+     "roman": "",
+     "tags": [],
+     "rang": 1313,
+     "kuratiert": false,
+     "akzeptiert": [
+      "colorado",
+      "rosmarino",
+      "rubicundo",
+      "rubro",
+      "rufo",
+      "rúbeo"
+     ]
+    },
+    "fr": {
+     "w": "rouge",
+     "roman": "",
+     "tags": [],
+     "rang": 825,
+     "kuratiert": false,
+     "akzeptiert": []
+    },
+    "it": {
+     "w": "rosso",
+     "roman": "",
+     "tags": [],
+     "rang": 1359,
+     "kuratiert": false,
+     "akzeptiert": [
+      "rubino"
+     ]
+    },
+    "ja": {
+     "w": "赤い",
+     "roman": "akai",
+     "tags": [],
+     "rang": null,
+     "kuratiert": false,
+     "akzeptiert": [
+      "akai"
+     ]
+    },
+    "zh": {
+     "w": "红色",
+     "roman": "hóngsè",
+     "tags": [],
+     "rang": 2282,
+     "kuratiert": false,
+     "akzeptiert": [
+      "hóng",
+      "hóngsè",
+      "紅",
+      "紅色",
+      "红"
+     ]
+    }
+   },
+   "warnungen": [],
+   "emoji": "🔴"
+  }
+ ]
+}

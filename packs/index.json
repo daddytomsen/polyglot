@@ -1,0 +1,11 @@
+{
+ "packs": [
+  {
+   "id": "a1",
+   "titel": "A1 Grundwortschatz",
+   "datei": "a1.json",
+   "rev": 1,
+   "karten": 512
+  }
+ ]
+}

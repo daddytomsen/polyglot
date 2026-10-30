@@ -1,0 +1,51 @@
+# Karten 51–100
+noun-play | | | raus=1
+noun-problem | Sprechen & Denken | ❗ |
+noun-hope | Gefühle & Eigenschaften | 🤞 | ja=希望, ja_roman=kibō
+noun-face | Körper & Gesundheit | 😊 | zh=脸, zh_roman=liǎn
+noun-excuse | | | raus=1
+noun-business | | | raus=1
+noun-heart | Körper & Gesundheit | ❤️ | ja=心臓, ja_roman=shinzō, zh=心脏, zh_roman=xīnzàng
+noun-worry | | | raus=1
+noun-year | Zeit | 📆 | ja_roman=toshi, zh_roman=nián
+noun-watch | Sonstiges | ⌚ |
+noun-music | Freizeit & Sport | 🎵 | de=die Musik
+noun-water | Essen & Trinken | 💧 | zh_roman=shuǐ
+noun-person | Familie & Menschen | 🧑 | zh_roman=rén
+noun-minute | Zeit | ⏱️ |
+noun-pay | | | raus=1
+noun-kid | | | raus=1
+noun-change | | | raus=1
+noun-drink | Essen & Trinken | 🥤 | es=bebida, fr=boisson, it=bevanda
+noun-check | | | raus=1
+noun-body | Körper & Gesundheit | 🧍 |
+noun-party | Freizeit & Sport | 🎉 | ja=パーティー, ja_roman=pātī
+noun-fun | Gefühle & Eigenschaften | 😄 | de=der Spaß, es=diversión, zh=乐趣, zh_roman=lèqù
+noun-word | Sprechen & Denken | 🔤 |
+noun-story | Sprechen & Denken | 📖 | de=die Geschichte
+noun-number | Sonstiges | 🔢 |
+noun-daughter | Familie & Menschen | 👧 |
+noun-wish | Gefühle & Eigenschaften | 🌠 | it=desiderio
+noun-moment | Zeit | ⏳ | de=der Moment
+noun-fight | | | raus=1
+noun-week | Zeit | 🗓️ | ja=週, ja_roman=shū
+noun-husband | Familie & Menschen | 🤵 | zh=丈夫, zh_roman=zhàngfu
+noun-fire | Natur & Tiere | 🔥 | zh_roman=huǒ
+noun-game | Freizeit & Sport | 🎮 | zh_roman=yóuxì
+noun-stand | | | raus=1
+noun-sister | Familie & Menschen | 👭 | ja=姉妹, ja_roman=shimai, zh=姐妹, zh_roman=jiěmèi
+noun-child | Familie & Menschen | 🧒 | es=niño, it=bambino
+noun-lady | | | raus=1
+noun-reason | Sprechen & Denken | ❓ | it=ragione
+noun-war | Sonstiges | ⚔️ | ja=戦争, ja_roman=sensō, zh=战争, zh_roman=zhànzhēng
+noun-city | Unterwegs & Orte | 🏙️ | ja=都市, ja_roman=toshi
+noun-walk | Freizeit & Sport | 🚶 |
+noun-town | | | raus=1
+noun-office | Schule & Arbeit | 🏢 |
+noun-question | Sprechen & Denken | ❓ | zh_roman=wèntí
+noun-half | Sonstiges | 🌓 |
+noun-bye | | | raus=1
+noun-team | Freizeit & Sport | 🏅 |
+noun-answer | Sprechen & Denken | 💬 | zh_roman=huídá
+noun-line | Farben & Formen | 📏 |
+noun-news | Sprechen & Denken | 📰 | de=die Nachrichten, it=notizie, ja_roman=nyūsu

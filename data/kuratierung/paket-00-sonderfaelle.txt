@@ -1,0 +1,5 @@
+# Wörter, die das Wiktionary per Stichwort nicht hergibt
+noun-mom | Familie & Menschen | 👩 | alias=mother, de=die Mama
+adj-favorite | Gefühle & Eigenschaften | ⭐ | alias=favourite, de=Lieblings-
+noun-june | Zeit | 📅 | de=der Juni, es=junio, fr=juin, it=giugno, ja=六月, ja_roman=rokugatsu, zh=六月, zh_roman=liùyuè
+noun-november | Zeit | 📅 | de=der November, es=noviembre, fr=novembre, it=novembre, ja=十一月, ja_roman=jūichigatsu, zh=十一月, zh_roman=shíyīyuè

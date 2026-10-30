@@ -1,0 +1,51 @@
+# Karten 401–450
+verb-win | Freizeit & Sport | 🏆 |
+verb-dance | Freizeit & Sport | 💃 |
+verb-catch | Freizeit & Sport | 🧤 | es=atrapar, fr=attraper, it=prendere, ja=捕まえる, ja_roman=tsukamaeru, zh=接住, zh_roman=jiēzhù
+verb-write | Schule & Arbeit | ✍️ |
+verb-drop | Tun (Verben) | 🫳 | es=dejar caer, it=far cadere, zh=掉, zh_roman=diào
+verb-learn | Schule & Arbeit | 📚 | it=imparare, ja=学ぶ, ja_roman=manabu
+verb-step | | | raus=1
+verb-clean | Zuhause | 🧹 | de=putzen
+verb-finish | Tun (Verben) | 🏁 | es=terminar, ja=終える, ja_roman=oeru, zh_roman=jiéshù
+verb-sell | Einkaufen & Geld | 🏷️ |
+verb-ride | Unterwegs & Orte | 🚴 | de=fahren (Rad/Pferd), es=montar, it=andare in, zh=骑, zh_roman=qí
+verb-imagine | Sprechen & Denken | 💭 | de=sich vorstellen, it=immaginare
+verb-wear | Kleidung | 👔 | es=llevar, it=indossare
+verb-sing | Freizeit & Sport | 🎤 |
+verb-spend | Einkaufen & Geld | 💸 | ja=使う, ja_roman=tsukau
+verb-ring | Sonstiges | 🔔 | de=klingeln
+verb-join | | | raus=1
+verb-enjoy | Gefühle & Eigenschaften | 😊 | fr=profiter de, it=godersi
+verb-agree | Sprechen & Denken | 🤝 | es=estar de acuerdo, fr=être d'accord, it=essere d'accordo
+verb-hide | Tun (Verben) | 🙈 | de=verstecken, es=esconder
+verb-blow | | | raus=1
+verb-share | Tun (Verben) | 🍰 | es=compartir, ja=分ける, ja_roman=wakeru
+verb-fly | Unterwegs & Orte | ✈️ |
+verb-laugh | Gefühle & Eigenschaften | 😂 |
+verb-visit | Freizeit & Sport | 🚪 | ja=訪ねる, ja_roman=tazuneru, zh=拜访, zh_roman=bàifǎng
+verb-judge | | | raus=1
+verb-carry | Tun (Verben) | 🎒 | ja=運ぶ, ja_roman=hakobu
+verb-teach | Schule & Arbeit | 👩‍🏫 | fr=enseigner
+verb-push | Tun (Verben) | 👐 |
+verb-jump | Freizeit & Sport | 🤸 |
+verb-grow | Natur & Tiere | 🌱 | ja=育つ, ja_roman=sodatsu, zh=长大, zh_roman=zhǎngdà
+verb-choose | Tun (Verben) | ☑️ | es=elegir
+verb-begin | Tun (Verben) | ▶️ | ja=始まる, ja_roman=hajimaru
+verb-kick | Freizeit & Sport | 🦵 | fr=donner un coup de pied
+verb-build | Tun (Verben) | 🏗️ | zh=建, zh_roman=jiàn
+verb-study | Schule & Arbeit | 📖 | de=lernen (Schule), it=studiare, ja=勉強する, ja_roman=benkyō suru
+verb-rain | Wetter | 🌧️ |
+verb-cook | Essen & Trinken | 🍳 |
+verb-note | | | raus=1
+verb-practice | Schule & Arbeit | 🔁 | de=üben, es=practicar, fr=pratiquer, it=esercitarsi, ja=練習する, ja_roman=renshū suru, zh=练习, zh_roman=liànxí
+verb-breathe | Körper & Gesundheit | 🌬️ |
+verb-color | | | raus=1
+verb-travel | Unterwegs & Orte | 🧳 |
+verb-discuss | Sprechen & Denken | 🗣️ | de=besprechen
+verb-fill | Tun (Verben) | 🫗 | ja=いっぱいにする, ja_roman=ippai ni suru
+verb-pray | Sonstiges | 🙏 |
+verb-wash | Zuhause | 🧼 |
+verb-focus | | | raus=1
+verb-draw | Freizeit & Sport | ✏️ | ja_roman=kaku
+verb-introduce | Sprechen & Denken | 🙋 |

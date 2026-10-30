@@ -1,0 +1,51 @@
+# Karten 101–150
+noun-bed | Zuhause | 🛏️ | es=cama
+noun-hurry | | | raus=1
+noun-food | Essen & Trinken | 🍲 | de=das Essen, fr=nourriture, ja=食べ物, ja_roman=tabemono
+noun-light | Zuhause | 💡 |
+noun-dog | Natur & Tiere | 🐕 |
+noun-order | | | raus=1
+noun-black | | | raus=1
+noun-feeling | Gefühle & Eigenschaften | 💭 | es=sentimiento, fr=sentiment, it=sentimento, ja=気持ち, ja_roman=kimochi
+noun-king | Sonstiges | 👑 | ja=王様, ja_roman=ōsama
+noun-plan | Sprechen & Denken | 🗺️ |
+noun-dinner | Essen & Trinken | 🍽️ | ja=夕食, ja_roman=yūshoku, zh=晚饭, zh_roman=wǎnfàn
+noun-book | Schule & Arbeit | 📖 |
+noun-white | | | raus=1
+noun-hour | Zeit | 🕐 | ja=時間, ja_roman=jikan
+noun-uncle | Familie & Menschen | 👨 | ja=おじ, ja_roman=oji
+noun-touch | | | raus=1
+noun-drive | | | raus=1
+noun-hair | Körper & Gesundheit | 💇 | fr=cheveux, it=capelli
+noun-luck | Gefühle & Eigenschaften | 🍀 |
+noun-daddy | | | raus=1
+noun-cold | Körper & Gesundheit | 🤧 | it=raffreddore
+noun-hospital | Körper & Gesundheit | 🏥 |
+noun-street | Unterwegs & Orte | 🛣️ | ja=通り, ja_roman=tōri, zh=街, zh_roman=jiē
+noun-dance | Freizeit & Sport | 💃 | zh=舞蹈, zh_roman=wǔdǎo
+noun-meeting | Schule & Arbeit | 👥 | de=die Besprechung
+noun-catch | | | raus=1
+noun-evening | Zeit | 🌆 | es=tarde, ja=夕方, ja_roman=yūgata
+noun-dream | Gefühle & Eigenschaften | 💤 |
+noun-sign | | | raus=1
+noun-coffee | Essen & Trinken | ☕ |
+noun-date | Zeit | 📆 | zh=日期, zh_roman=rìqī
+noun-song | Freizeit & Sport | 🎶 |
+noun-future | Zeit | 🔮 |
+noun-throw | | | raus=1
+noun-picture | Freizeit & Sport | 🖼️ | zh=图片, zh_roman=túpiàn
+noun-eye | Körper & Gesundheit | 👁️ |
+noun-class | Schule & Arbeit | 🏫 | de=die Klasse, ja=クラス, ja_roman=kurasu, zh=班, zh_roman=bān
+noun-officer | | | raus=1
+noun-wake | | | raus=1
+noun-kiss | Gefühle & Eigenschaften | 💋 |
+noun-building | Unterwegs & Orte | 🏢 | ja=建物, ja_roman=tatemono
+noun-finish | | | raus=1
+noun-age | Familie & Menschen | 🎂 | de=das Alter, es=edad, ja=年齢, ja_roman=nenrei, zh=年龄, zh_roman=niánlíng
+noun-ship | Unterwegs & Orte | 🚢 |
+noun-movie | Freizeit & Sport | 🎬 |
+noun-ride | | | raus=1
+noun-mouth | Körper & Gesundheit | 👄 | fr=bouche
+noun-birthday | Zeit | 🎂 | ja=誕生日, ja_roman=tanjōbi
+noun-information | Sprechen & Denken | ℹ️ |
+noun-month | Zeit | 🗓️ |

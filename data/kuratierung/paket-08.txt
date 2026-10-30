@@ -1,0 +1,51 @@
+# Karten 351–400
+verb-wait | Tun (Verben) | ⏳ |
+verb-stop | Tun (Verben) | 🛑 | zh=停, zh_roman=tíng
+verb-talk | Sprechen & Denken | 🗨️ | zh=谈话, zh_roman=tánhuà
+verb-put | Tun (Verben) | 📥 | de=legen
+verb-keep | Tun (Verben) | 🗄️ | es=guardar, ja=取っておく, ja_roman=totte oku, zh=保留, zh_roman=bǎoliú
+verb-leave | Tun (Verben) | 🚪 | de=verlassen, es=irse, ja=出る, ja_roman=deru
+verb-feel | Gefühle & Eigenschaften | 💓 | de=fühlen, ja_roman=kanjiru
+verb-believe | Sprechen & Denken | 🙌 |
+verb-stay | Tun (Verben) | 🏠 | de=bleiben, es=quedarse, it=restare, ja=泊まる, ja_roman=tomaru, zh=待, zh_roman=dāi
+verb-listen | Tun (Verben) | 🎧 | de=zuhören
+verb-hear | Tun (Verben) | 👂 | ja=聞こえる, ja_roman=kikoeru, zh_roman=tīng
+verb-remember | Sprechen & Denken | 💭 | ja=覚える, ja_roman=oboeru
+verb-ask | Sprechen & Denken | ❓ | ja=尋ねる, ja_roman=tazuneru
+verb-show | Tun (Verben) | 👉 | zh=给…看, zh_roman=gěi … kàn
+verb-kill | | | raus=1
+verb-live | Tun (Verben) | 🌱 | es=vivir, ja=住む, ja_roman=sumu, zh=住, zh_roman=zhù
+verb-miss | Gefühle & Eigenschaften | 😢 | de=vermissen, es=extrañar, ja=恋しい, ja_roman=koishii, zh=想念, zh_roman=xiǎngniàn
+verb-start | Tun (Verben) | ▶️ | de=anfangen, es=empezar, fr=commencer, it=cominciare, ja=始める, ja_roman=hajimeru, zh=开始, zh_roman=kāishǐ
+verb-use | Tun (Verben) | 🔧 | ja=使う, ja_roman=tsukau
+verb-guess | Sprechen & Denken | 🎲 | de=raten, es=adivinar, ja=当てる, ja_roman=ateru
+verb-meet | Familie & Menschen | 🤝 | es=conocer
+verb-bring | Tun (Verben) | 📦 | fr=apporter, ja=持ってくる, ja_roman=motte kuru
+verb-run | Freizeit & Sport | 🏃 | de=laufen
+verb-phone | Sprechen & Denken | 📞 | es=llamar, zh=打电话, zh_roman=dǎ diànhuà
+verb-play | Freizeit & Sport | 🎲 |
+verb-open | Tun (Verben) | 🔓 |
+verb-turn | Tun (Verben) | 🔄 | de=abbiegen, es=girar, fr=tourner, it=girare, ja=曲がる, ja_roman=magaru, zh=转弯, zh_roman=zhuǎnwān
+verb-watch | Freizeit & Sport | 📺 |
+verb-sit | Tun (Verben) | 🪑 | fr=s'asseoir, it=sedersi
+verb-eat | Essen & Trinken | 🍽️ |
+verb-pay | Einkaufen & Geld | 💳 | zh=付钱, zh_roman=fùqián
+verb-forget | Sprechen & Denken | 🤷 | de=vergessen, zh=忘记, zh_roman=wàngjì
+verb-change | Tun (Verben) | 🔁 | de=ändern, zh=改变, zh_roman=gǎibiàn
+verb-happen | Sonstiges | ⚡ | de=passieren, es=pasar
+verb-drink | Essen & Trinken | 🥤 |
+verb-sleep | Körper & Gesundheit | 😴 |
+verb-close | Tun (Verben) | 🔒 | ja=閉める, ja_roman=shimeru, zh=关, zh_roman=guān
+verb-set | | | raus=1
+verb-hurt | Körper & Gesundheit | 🤕 | it=fare male
+verb-read | Schule & Arbeit | 📖 | zh=读, zh_roman=dú
+verb-cut | Essen & Trinken | ✂️ | de=schneiden
+verb-speak | Sprechen & Denken | 🗣️ |
+verb-break | Tun (Verben) | 💥 | de=kaputt machen, ja=壊す, ja_roman=kowasu, zh=弄坏, zh_roman=nònghuài
+verb-walk | Freizeit & Sport | 🚶 | de=zu Fuß gehen
+verb-welcome | | | raus=1
+verb-buy | Einkaufen & Geld | 🛒 |
+verb-answer | Sprechen & Denken | 💬 |
+verb-save | | | raus=1
+verb-become | Tun (Verben) | 🦋 | es=volverse, ja=なる, ja_roman=naru
+verb-pick | | | raus=1

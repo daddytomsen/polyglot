@@ -1,0 +1,51 @@
+# Karten 251–300
+noun-video | Freizeit & Sport | 📹 | ja=ビデオ, ja_roman=bideo
+noun-sky | Natur & Tiere | 🌌 | zh=天空, zh_roman=tiānkōng
+noun-reading | | | raus=1
+noun-memory | Sprechen & Denken | 🧠 | de=die Erinnerung, es=recuerdo, fr=souvenir, it=ricordo, ja=思い出, ja_roman=omoide, zh=回忆, zh_roman=huíyì
+noun-nose | Körper & Gesundheit | 👃 |
+noun-bathroom | Zuhause | 🛁 | de=das Bad, ja=お風呂, ja_roman=ofuro
+noun-band | Freizeit & Sport | 🎸 | es=banda, fr=groupe, it=band
+noun-pop | | | raus=1
+noun-neck | Körper & Gesundheit | 🧣 |
+noun-bottle | Essen & Trinken | 🍾 | ja=ボトル, ja_roman=botoru
+noun-mommy | | | raus=1
+noun-animal | Natur & Tiere | 🐾 | fr=animal
+noun-camp | | | raus=1
+noun-bird | Natur & Tiere | 🐦 |
+noun-driver | Unterwegs & Orte | 🧑‍✈️ | ja=運転手, ja_roman=untenshu
+noun-rain | Wetter | 🌧️ |
+noun-stone | Natur & Tiere | 🪨 |
+noun-weekend | Zeit | 🎈 |
+noun-pants | Kleidung | 👖 |
+noun-beach | Natur & Tiere | 🏖️ | ja=ビーチ, ja_roman=bīchi
+noun-bottom | | | raus=1
+noun-cook | Schule & Arbeit | 👨‍🍳 | fr=cuisinier, ja=料理人, ja_roman=ryōrinin
+noun-hall | | | raus=1
+noun-knife | Essen & Trinken | 🔪 |
+noun-princess | Sonstiges | 👸 | ja=お姫様, ja_roman=ohimesama
+noun-rose | Natur & Tiere | 🌹 |
+noun-hat | Kleidung | 🎩 | de=der Hut
+noun-corner | Unterwegs & Orte | 📐 | ja=角, ja_roman=kado
+noun-code | | | raus=1
+noun-note | Sprechen & Denken | 📝 | de=die Notiz, ja=メモ, ja_roman=memo, zh=笔记, zh_roman=bǐjì
+noun-language | Sprechen & Denken | 🗣️ | es=idioma, ja=言語, ja_roman=gengo, zh=语言, zh_roman=yǔyán
+noun-grandma | Familie & Menschen | 👵 | de=die Oma, ja=おばあさん, ja_roman=obāsan, zh=奶奶, zh_roman=nǎinai
+noun-leader | | | raus=1
+noun-restaurant | Essen & Trinken | 🍴 |
+noun-ghost | Sonstiges | 👻 | es=fantasma, fr=fantôme, it=fantasma, ja=幽霊, ja_roman=yūrei
+noun-cup | Essen & Trinken | ☕ | fr=tasse, ja=カップ, ja_roman=kappu
+noun-conversation | Sprechen & Denken | 💬 | it=conversazione, ja=会話, ja_roman=kaiwa
+noun-health | Körper & Gesundheit | 💚 | fr=santé, ja=健康, ja_roman=kenkō, zh=健康, zh_roman=jiànkāng
+noun-rule | Schule & Arbeit | 📏 |
+noun-cousin | Familie & Menschen | 🧑 | zh=表亲, zh_roman=biǎoqīn
+noun-file | | | raus=1
+noun-milk | Essen & Trinken | 🥛 | ja=牛乳, ja_roman=gyūnyū, zh=牛奶, zh_roman=niúnǎi
+noun-practice | Schule & Arbeit | 🔁 |
+noun-pardon | | | raus=1
+noun-vote | | | raus=1
+noun-dancing | | | raus=1
+noun-copy | | | raus=1
+noun-cake | Essen & Trinken | 🍰 | it=torta
+noun-meat | Essen & Trinken | 🥩 | ja=肉, ja_roman=niku
+noun-student | Schule & Arbeit | 🧑‍🎓 | fr=étudiant

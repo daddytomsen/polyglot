@@ -1,0 +1,51 @@
+# Karten 151–200
+noun-train | Unterwegs & Orte | 🚆 | ja=電車, ja_roman=densha
+noun-clothes | Kleidung | 👕 | de=die Kleidung
+noun-hotel | Unterwegs & Orte | 🏨 | zh=酒店, zh_roman=jiǔdiàn
+noun-bag | Kleidung | 👜 | de=die Tasche, ja=かばん, ja_roman=kaban
+noun-history | Schule & Arbeit | 📜 |
+noun-blue | | | raus=1
+noun-station | Unterwegs & Orte | 🚉 | zh=车站, zh_roman=chēzhàn
+noun-message | Sprechen & Denken | ✉️ | ja=メッセージ, ja_roman=messēji, zh=消息, zh_roman=xiāoxi
+noun-table | Zuhause | 🪑 | ja=テーブル, ja_roman=tēburu
+noun-floor | Zuhause | 🧱 |
+noun-sun | Natur & Tiere | ☀️ |
+noun-letter | Sprechen & Denken | 💌 | de=der Brief, es=carta, fr=lettre, it=lettera, ja=手紙, ja_roman=tegami, zh=信, zh_roman=xìn
+noun-club | Freizeit & Sport | 🎳 | ja=クラブ, ja_roman=kurabu
+noun-test | Schule & Arbeit | 📝 | de=der Test, es=examen, fr=examen, ja=試験, ja_roman=shiken
+noun-box | Zuhause | 📦 | de=die Schachtel
+noun-group | Familie & Menschen | 👥 | ja=グループ, ja_roman=gurūpu, zh=小组, zh_roman=xiǎozǔ
+noun-peace | Sonstiges | 🕊️ | de=der Frieden
+noun-present | Sonstiges | 🎁 | de=das Geschenk, es=regalo, fr=cadeau, it=regalo, ja=プレゼント, ja_roman=purezento, zh=礼物, zh_roman=lǐwù
+noun-horse | Natur & Tiere | 🐴 | de=das Pferd
+noun-ground | Natur & Tiere | 🟫 | de=der Boden, it=terra, ja=地面, ja_roman=jimen, zh=地面, zh_roman=dìmiàn
+noun-lunch | Essen & Trinken | 🥪 | es=almuerzo, ja=昼食, ja_roman=chūshoku, zh=午饭, zh_roman=wǔfàn
+noun-radio | Zuhause | 📻 | zh=收音机, zh_roman=shōuyīnjī
+noun-ball | Freizeit & Sport | ⚽ | es=pelota, fr=ballon, it=palla
+noun-surprise | Gefühle & Eigenschaften | 🎊 | zh=惊喜, zh_roman=jīngxǐ
+noun-paper | Schule & Arbeit | 📄 |
+noun-key | Zuhause | 🔑 |
+noun-boat | Unterwegs & Orte | ⛵ | it=barca
+noun-bar | Unterwegs & Orte | 🍸 |
+noun-fish | Natur & Tiere | 🐟 | es=pez, ja_roman=sakana
+noun-cover | | | raus=1
+noun-star | Natur & Tiere | ⭐ |
+noun-sea | Natur & Tiere | 🌊 |
+noun-bank | Einkaufen & Geld | 🏦 |
+noun-trip | Unterwegs & Orte | 🧳 | fr=voyage, ja=旅行, ja_roman=ryokō
+noun-list | Schule & Arbeit | 📋 | zh=清单, zh_roman=qīngdān
+noun-afternoon | Zeit | 🌤️ |
+noun-brain | Körper & Gesundheit | 🧠 | zh=大脑, zh_roman=dànǎo
+noun-tea | Essen & Trinken | 🍵 |
+noun-park | Unterwegs & Orte | 🌳 |
+noun-dress | Kleidung | 👗 | es=vestido, ja=ワンピース, ja_roman=wanpīsu, zh=连衣裙, zh_roman=liányīqún
+noun-ice | Natur & Tiere | 🧊 |
+noun-church | Unterwegs & Orte | ⛪ |
+noun-camera | Freizeit & Sport | 📷 | de=die Kamera
+noun-card | Freizeit & Sport | 🃏 | es=tarjeta, it=carta
+noun-fly | Natur & Tiere | 🪰 |
+noun-girlfriend | Familie & Menschen | 👩‍❤️‍👨 | de=die Freundin, fr=copine, it=ragazza
+noun-smell | Körper & Gesundheit | 👃 | fr=odeur, zh=气味, zh_roman=qìwèi
+noun-mum | | | raus=1
+noun-visit | Freizeit & Sport | 🚪 |
+noun-window | Zuhause | 🪟 |

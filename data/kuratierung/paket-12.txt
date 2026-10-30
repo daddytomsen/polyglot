@@ -1,0 +1,51 @@
+# Karten 551–600
+adj-sad | Gefühle & Eigenschaften | 😢 | zh=难过, zh_roman=nánguò
+adj-broken | Sonstiges | 🔧 | de=kaputt, zh=坏了, zh_roman=huài le
+adj-hungry | Essen & Trinken | 🍽️ | ja=お腹が空いた, ja_roman=onaka ga suita
+adj-green | Farben & Formen | 🟢 | ja=緑, ja_roman=midori, zh=绿色, zh_roman=lǜsè
+adj-cute | Gefühle & Eigenschaften | 🥰 | de=süß (niedlich), es=mono
+adj-slow | Unterwegs & Orte | 🐌 | ja=遅い, ja_roman=osoi
+adj-dirty | Zuhause | 🧦 |
+adj-fat | Körper & Gesundheit | 🍔 | ja=太った, ja_roman=futotta
+adj-closed | Sonstiges | 🔒 | ja=閉まっている, ja_roman=shimatte iru, zh=关着, zh_roman=guānzhe
+adj-favorite | Gefühle & Eigenschaften | ⭐ | de=Lieblings-, ja=お気に入りの, ja_roman=okiniiri no, zh=最喜欢的, zh_roman=zuì xǐhuan de
+adj-following | | | raus=1
+adj-excited | Gefühle & Eigenschaften | 🤩 | de=aufgeregt, ja=わくわくした, ja_roman=wakuwaku shita
+adj-warm | Wetter | 🌤️ |
+adj-heavy | Farben & Formen | 🏋️ |
+adj-famous | Sonstiges | 🌟 | de=berühmt, es=famoso, fr=célèbre, zh=有名, zh_roman=yǒumíng
+adj-large | | | raus=1
+adj-excellent | Gefühle & Eigenschaften | 💯 | zh=优秀, zh_roman=yōuxiù
+adj-due | | | raus=1
+adj-correct | Schule & Arbeit | ✔️ | de=richtig, it=corretto, ja=正しい, ja_roman=tadashii
+adj-tight | Kleidung | 🩳 |
+adj-super | | | raus=1
+adj-brown | Farben & Formen | 🟤 | es=marrón, it=marrone, ja=茶色, ja_roman=chairo
+adj-dry | Wetter | 🏜️ |
+adj-social | | | raus=1
+adj-ugly | Gefühle & Eigenschaften | 🙈 |
+adj-lonely | Gefühle & Eigenschaften | 🫥 |
+adj-handsome | Gefühle & Eigenschaften | 🤵 | de=gutaussehend, es=guapo
+adj-bright | Farben & Formen | 🔆 | de=hell, es=brillante, it=luminoso, zh=明亮, zh_roman=míngliàng
+adj-exciting | Gefühle & Eigenschaften | 🎢 | ja=わくわくする, ja_roman=wakuwaku suru, zh=刺激, zh_roman=cìjī
+adj-expensive | Einkaufen & Geld | 💰 |
+adj-foreign | Unterwegs & Orte | 🌍 | de=fremd
+adj-boring | Gefühle & Eigenschaften | 🥱 |
+adj-delicious | Essen & Trinken | 😋 | de=lecker, es=delicioso, zh_roman=hǎochī
+adj-tall | Körper & Gesundheit | 🦒 | ja=背が高い, ja_roman=se ga takai
+adj-clever | | | raus=1
+adj-yellow | Farben & Formen | 🟡 | zh=黄色, zh_roman=huángsè
+adj-healthy | Körper & Gesundheit | 🥗 |
+adj-awake | Körper & Gesundheit | 👁️ | ja=起きている, ja_roman=okite iru, zh=醒着, zh_roman=xǐngzhe
+adj-false | | | raus=1
+adj-successful | Schule & Arbeit | 🏆 | es=exitoso, fr=réussi, it=di successo, zh=成功, zh_roman=chénggōng
+adj-rude | Gefühle & Eigenschaften | 😤 | de=unhöflich
+adj-merry | | | raus=1
+adj-pink | Farben & Formen | 🩷 | de=rosa, es=rosa, zh=粉色, zh_roman=fěnsè
+adj-thin | Körper & Gesundheit | 🥢 | es=delgado, fr=maigre, it=magro, ja=痩せた, ja_roman=yaseta, zh=瘦, zh_roman=shòu
+adj-shy | Gefühle & Eigenschaften | 😳 | de=schüchtern, es=tímido, fr=timide, ja=恥ずかしがり, ja_roman=hazukashigari, zh=害羞, zh_roman=hàixiū
+adj-orange | Farben & Formen | 🟠 | ja=オレンジ色, ja_roman=orenji-iro
+adj-everyday | | | raus=1
+adj-thick | Farben & Formen | 📚 | ja=厚い, ja_roman=atsui
+adj-gray | Farben & Formen | ⚪ | ja_roman=haiiro
+adj-lazy | Gefühle & Eigenschaften | 🦥 | es=perezoso, ja=怠け者の, ja_roman=namakemono no

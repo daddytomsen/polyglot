@@ -1,0 +1,14 @@
+# Gleiche deutsche Abfrage bei zwei Karten → eindeutig machen
+noun-boyfriend | | | de=der feste Freund
+noun-floor | | | de=der Fußboden
+verb-begin | | | de=beginnen
+verb-wear | | | de=tragen (Kleidung)
+verb-carry | | | de=tragen (Last)
+adj-tall | | | de=groß (Körper)
+adj-lucky | | | de=Glück habend
+adj-light | | | de=leicht (Gewicht)
+adj-easy | | | de=leicht (einfach)
+adv-quickly | | | de=rasch
+adj-fat | | | de=dick (Person)
+adj-thick | | | de=dick (Gegenstand)
+verb-watch | | | de=zuschauen, es=ver, ja=観る, ja_roman=miru, zh=观看, zh_roman=guānkàn

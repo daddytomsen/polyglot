@@ -1,0 +1,51 @@
+# Karten 501–550
+adj-afraid | Gefühle & Eigenschaften | 😨 | de=ängstlich, es=asustado, it=spaventato
+adj-dear | | | raus=1
+adj-close | Unterwegs & Orte | 📍 | fr=proche
+adj-fun | | | raus=1
+adj-important | Sonstiges | ❗ |
+adj-high | Farben & Formen | 🏔️ |
+adj-cool | Wetter | 🌬️ | it=fresco
+adj-free | Sonstiges | 🕊️ | zh=自由, zh_roman=zìyóu
+adj-front | | | raus=1
+adj-full | Essen & Trinken | 🈵 | ja=いっぱい, ja_roman=ippai, zh=满, zh_roman=mǎn
+adj-light | Farben & Formen | 🪶 |
+adj-hot | Wetter | 🔥 |
+adj-funny | Gefühle & Eigenschaften | 😄 | zh=好笑, zh_roman=hǎoxiào
+adj-black | Farben & Formen | ⚫ | zh=黑色, zh_roman=hēisè
+adj-living | | | raus=1
+adj-white | Farben & Formen | ⚪ | zh=白色, zh_roman=báisè
+adj-small | Farben & Formen | 🐜 |
+adj-special | Gefühle & Eigenschaften | 🎁 | de=besonders, zh=特别, zh_roman=tèbié
+adj-sick | Körper & Gesundheit | 🤒 | de=krank, es=enfermo, fr=malade, it=malato, ja=病気, ja_roman=byōki, zh=生病, zh_roman=shēngbìng
+adj-poor | Einkaufen & Geld | 🪙 | es=pobre
+adj-red | Farben & Formen | 🔴 |
+adj-glad | | | raus=1
+adj-fast | Unterwegs & Orte | 🏎️ |
+adj-cold | Wetter | 🥶 | ja=寒い, ja_roman=samui
+adj-sweet | Essen & Trinken | 🍬 |
+adj-lucky | Gefühle & Eigenschaften | 🍀 | ja=幸運な, ja_roman=kōun na
+adj-quiet | Gefühle & Eigenschaften | 🤫 | de=leise, es=silencioso, fr=silencieux
+adj-careful | Gefühle & Eigenschaften | ⚠️ | ja=注意深い, ja_roman=chūibukai
+adj-wonderful | Gefühle & Eigenschaften | 🤩 | es=maravilloso, it=meraviglioso, ja=素晴らしい, ja_roman=subarashii, zh=精彩, zh_roman=jīngcǎi
+adj-clean | Zuhause | ✨ | ja=きれいな, ja_roman=kirei na
+adj-strong | Körper & Gesundheit | 💪 |
+adj-strange | Gefühle & Eigenschaften | 🤨 | ja=変な, ja_roman=hen na
+adj-tired | Körper & Gesundheit | 😴 | it=stanco
+adj-busy | Schule & Arbeit | 📆 |
+adj-dark | Farben & Formen | 🌑 | zh=黑暗, zh_roman=hēi'àn
+adj-terrible | Gefühle & Eigenschaften | 😱 | fr=terrible, zh=可怕, zh_roman=kěpà
+adj-blue | Farben & Formen | 🔵 |
+adj-lovely | | | raus=1
+adj-middle | | | raus=1
+adj-fair | | | raus=1
+adj-interesting | Gefühle & Eigenschaften | 🧐 |
+adj-short | Farben & Formen | 📏 |
+adj-key | | | raus=1
+adj-gold | | | raus=1
+adj-interested | | | raus=1
+adj-difficult | Gefühle & Eigenschaften | 🧗 | de=schwierig
+adj-smart | Gefühle & Eigenschaften | 🧠 | es=inteligente
+adj-personal | | | raus=1
+adj-angry | Gefühle & Eigenschaften | 😠 | de=wütend, es=enfadado, fr=fâché, zh=生气, zh_roman=shēngqì
+adj-rich | Einkaufen & Geld | 💎 | ja=金持ちの, ja_roman=kanemochi no

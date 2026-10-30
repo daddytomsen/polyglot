@@ -1,0 +1,16 @@
+# A1-Grundwortschatz zum Ausprobieren: wort;pos;glossen-stichwort (pos/glosse optional)
+car;noun;automobile
+dog;noun
+cat;noun
+house;noun
+water;noun
+bread;noun
+apple;noun
+book;noun
+tree;noun
+sun;noun
+eat;verb;consume
+drink;verb;consume
+big;adj
+small;adj
+red;adj;colour

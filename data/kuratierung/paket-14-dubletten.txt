@@ -1,0 +1,13 @@
+# Dubletten nach dem Gesamtlauf: gleiche Lösung in mehreren Sprachen oder gleiche deutsche Abfrage
+noun-present | | | raus=1
+noun-home | | | raus=1
+noun-boat | | | raus=1
+noun-history | | | de=die Geschichte (Vergangenheit)
+noun-story | | | de=die Geschichte (Erzählung)
+noun-hour | | | ja=一時間, ja_roman=ichijikan
+noun-evening | | | zh=傍晚, zh_roman=bàngwǎn
+noun-seat | | | fr=siège, it=sedile
+noun-machine | | | it=macchina (dispositivo)
+noun-band | | | fr=groupe (musique)
+noun-ground | | | es=tierra
+noun-card | | | it=carta (da gioco)
