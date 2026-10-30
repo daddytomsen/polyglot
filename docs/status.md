@@ -1,6 +1,20 @@
 # Status Polyglot
 
-Stand 29.10.2026, spät. Eine neue Session liest zuerst `KONZEPT.md` (Kap. 1 und 8) und diese Datei.
+Stand 30.10.2026. Eine neue Session liest zuerst `KONZEPT.md` (Kap. 1 und 8) und diese Datei.
+
+## Veröffentlicht (30.10.)
+
+- Git-Repo `daddytomsen/polyglot` (öffentlich), Hauptzweig `main`, GitHub Pages vom Wurzelverzeichnis: **https://daddytomsen.github.io/polyglot/**
+- Nicht im Repo (`.gitignore`): `data/kaikki/` (Wiktionary-Cache, 640 Dateien), `data/freq/`, `logs/`, `.claude/`. Beides lässt sich mit `tools/hole-vokabeln.py` jederzeit neu laden.
+- Release-Ablauf wie Voc a Bit: Version in `index.html` und `sw.js` hochzählen, `tools/check.sh`, Commit, Push. Neue Pakete in `packs/` brauchen keinen neuen Release, nur eine höhere `rev` in `packs/index.json`.
+- iPhone-Test steht aus (Checkliste in der Abschlussmeldung vom 30.10.; Ergebnisse unten eintragen).
+
+## Testprotokoll
+
+| Datum | Gerät | Ergebnis |
+|---|---|---|
+| 29.10.2026 | Mac, Browser 375 px | zwei Runden, Nachschuss, Aufstieg, Serie, Neustart, hell/dunkel ok |
+
 
 ## Phase 2 – App-Kern: fertig (Version 0.1.0, nur im Browser am Mac geprüft, nicht auf dem iPhone)
 
@@ -38,6 +52,6 @@ Stand 29.10.2026, spät. Eine neue Session liest zuerst `KONZEPT.md` (Kap. 1 und
 
 ## Nächster Schritt
 
-1. Git-Repo anlegen und auf GitHub Pages veröffentlichen (öffentlich, wie `wordbox`); dann iPhone-Test nach der Checkliste aus Voc a Bit (Ton, Stimmen, Sicherung, offline, Home-Bildschirm).
+1. iPhone-Test nach der Checkliste (Ton, Stimmen ja/zh, Sicherung über Teilen-Menü, offline, Home-Bildschirm), Ergebnisse ins Testprotokoll.
 2. Phase 3 Spielmechanik: Streak Freeze, Edelsteine, Tagesquests, Abzeichen, Hör-Abfrage, Rückrichtung.
 3. Paket A2 über die Pipeline (`data/a2-liste.txt`, ~1 200 Stichwörter, 24 Pakete Kuratierung).

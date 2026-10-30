@@ -1,6 +1,6 @@
 # Polyglot – Fünf-Sprachen-Vokabeltrainer
 
-Web-App für das iPhone (Safari → „Zum Home-Bildschirm“), eine `index.html`, kein Server, kein Build, Lernstand nur im Gerät. Eine Karteikarte ist ein Begriff und steigt erst auf, wenn er in allen fünf Sprachen richtig ist. Lies zuerst `KONZEPT.md` (Kap. 1 und 8) und `docs/status.md`.
+Live: **https://daddytomsen.github.io/polyglot/** · Web-App für das iPhone (Safari → „Zum Home-Bildschirm“), eine `index.html`, kein Server, kein Build, Lernstand nur im Gerät. Eine Karteikarte ist ein Begriff und steigt erst auf, wenn er in allen fünf Sprachen richtig ist. Lies zuerst `KONZEPT.md` (Kap. 1 und 8) und `docs/status.md`.
 
 ```bash
 cd ~/Downloads/polyglot
